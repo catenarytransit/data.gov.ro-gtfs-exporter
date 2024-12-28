@@ -23452,6 +23452,90 @@
         "metadata": ""
       },
       "geometry": { "type": "Point", "coordinates": [20.849397, 45.788784] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "13863",
+        "name": "Bucureşti Progresu",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [26.091033, 44.3654] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "13887",
+        "name": "Jilava",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [26.106357, 44.341686] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "13899",
+        "name": "Sinteşti h.",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [26.130752, 44.304099] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "13904",
+        "name": "Vidra Hm.",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [26.153549, 44.268844] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "21561",
+        "name": "Lalaşinţ h.",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [22.023219, 46.072468] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "12235",
+        "name": "Vârteju",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [26.014919, 44.369068] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "12144",
+        "name": "Bucureşti Vest",
+        "type": "normal",
+        "rules": "",
+        "platform": "",
+        "metadata": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [25.968345, 44.426201] }
     }
   ]
 }
