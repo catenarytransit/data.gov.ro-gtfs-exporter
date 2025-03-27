@@ -21,3 +21,6 @@ jobs:
       - name: Download Required files
         run: |
           wget https://data.gov.ro/dataset/b4e2ce0b-6935-44b1-8e9d-f3999123358a/resource/44d079a4-97d8-48c6-ab24-5ab454358245/download/s.c.-interregional-cltori-s.r.l_2025.xml -O data.gov.ro/s.c.-interregional-cltori-s.r.l_2025.xml 
+
+      - name: Run
+        run: ruby parse.rb
