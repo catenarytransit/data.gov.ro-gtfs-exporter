@@ -21,6 +21,7 @@ jobs:
       - name: Download Required files
         run: |
           wget https://data.gov.ro/dataset/b4e2ce0b-6935-44b1-8e9d-f3999123358a/resource/44d079a4-97d8-48c6-ab24-5ab454358245/download/s.c.-interregional-cltori-s.r.l_2025.xml -O data.gov.ro/s.c.-interregional-cltori-s.r.l_2025.xml 
+          wget https://data.gov.ro/dataset/019ecd94-b7ce-46e5-a003-7e4db3180147/resource/f004c22e-84b6-45b9-9f2c-7d644cc9931d/download/ferotrafic-tfi-10-trenuri_2025.xml -O data.gov.ro/ferotrafic-tfi-10-trenuri_2025.xml
 
       - name: Run
         run: ruby parse.rb
