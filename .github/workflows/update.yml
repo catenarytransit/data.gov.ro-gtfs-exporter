@@ -25,3 +25,6 @@ jobs:
   
       - name: Run
         run: ruby parse.rb
+
+      - name: Upload
+        uses: stefanzweifel/git-auto-commit-action@v5
