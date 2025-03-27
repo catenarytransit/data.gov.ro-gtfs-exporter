@@ -24,6 +24,7 @@ jobs:
           wget https://data.gov.ro/dataset/1da1018d-df38-4b5f-9667-88e4521abfb3/resource/b752e8bb-2701-4214-ba51-4a7948b2e217/download/s.c.-regio-calatori-s.r.l_271-trenuri_2025.xml -O data.gov.ro/s.c.-regio-calatori-s.r.l_271-trenuri_2025.xml
           wget https://data.gov.ro/dataset/1d057a43-3eaa-4fed-a349-4106f3ad0e49/resource/6eb9c474-235e-43bb-8d26-09fdb3fb8f6b/download/s.c.-astra-trans-carpatic-s.r.l_22-trenuri_2025.xml -O data.gov.ro/s.c.-astra-trans-carpatic-s.r.l_22-trenuri_2025.xml 
           wget https://data.gov.ro/dataset/9d4adc7b-d407-46c2-9003-5aa87cd16fb7/resource/c61db9e4-4bc3-4fb3-a9a2-7de49c68ad94/download/s.c.-transferoviar-calatori-srl_221-tr_2025.xml -O data.gov.ro/s.c.-transferoviar-calatori-srl_221-tr_2025.xml 
+          wget https://data.gov.ro/dataset/4ae60d7e-5f1d-4969-94c9-82236babfa08/resource/5260cf42-32c8-4257-acb3-14e21fda3f8a/download/calea-ferat-din-moldova-4-trenuri_2025.xml  -O data.gov.ro/calea-ferat-din-moldova-4-trenuri_2025.xml 
     
       - name: Run
         run: ruby parse.rb
