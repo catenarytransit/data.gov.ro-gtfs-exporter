@@ -1,256 +1,256 @@
 route_id,agency_id,route_short_name,route_long_name,route_type
-1,200000,IR: Mangalia - Bucureşti Nord Gr.A,IR: Mangalia - Neptun Hm. - Neptun hc. - Costineşti Tabără hc. - Costineşti - Eforie Sud - Eforie Nord - Constanţa - Bucureşti Nord Gr.A,2
-2,200000,IR-N: Arad - Constanţa,IR-N: Arad - Timişoara Nord - Lugoj - Caransebeş - Băile Herculane - Orşova - Drobeta Tr. Severin - Balota - Filiaşi - Craiova - Caracal - Roşiori Nord - Videle - Bucureşti Nord Gr.A - Constanţa,2
-3,200000,IR: Bucureşti Nord Gr.A - Titu,IR: Bucureşti Nord Gr.A - Titu,2
-4,200000,IR: Bucureşti Nord Gr.A - Braşov,IR: Bucureşti Nord Gr.A - Ploieşti Vest - Câmpina - Sinaia - Buşteni - Azuga - Predeal - Braşov,2
-5,200000,IR: Bucureşti Nord Gr.A - Mangalia,IR: Bucureşti Nord Gr.A - Constanţa - Eforie Nord - Eforie Sud - Costineşti - Costineşti Tabără hc. - Neptun hc. - Mangalia,2
-6,200000,IR: Braşov - Bucureşti Nord Gr.A,IR: Braşov - Predeal - Azuga - Buşteni - Sinaia - Câmpina - Ploieşti Vest - Bucureşti Nord Gr.A,2
-7,200000,IR-N: Constanţa - Arad,IR-N: Constanţa - Bucureşti Nord Gr.A - Videle - Roşiori Nord - Caracal - Craiova - Filiaşi - Balota - Drobeta Tr.Sev Est Hm. - Drobeta Tr. Severin - Orşova - Băile Herculane - Caransebeş - Lugoj - Timişoara Nord - Arad,2
-8,200000,IR-N: Bucureşti Nord Gr.A - Arad,IR-N: Bucureşti Nord Gr.A - Videle - Roşiori Nord - Caracal - Craiova - Filiaşi - Balota - Drobeta Tr.Sev Est Hm. - Drobeta Tr. Severin - Orşova - Băile Herculane - Caransebeş - Lugoj - Timişoara Nord - Arad,2
-9,200000,IR: Titu - Bucureşti Nord Gr.A,IR: Titu - Bucureşti Nord Gr.A,2
-10,200000,IR-N: Arad - Bucureşti Nord Gr.A,IR-N: Arad - Timişoara Nord - Lugoj - Caransebeş - Băile Herculane - Orşova - Drobeta Tr. Severin - Balota - Filiaşi - Craiova - Caracal - Roşiori Nord - Videle - Bucureşti Nord Gr.A,2
-11,200000,IR: Mangalia - Bucureşti Nord Gr.A,IR: Mangalia - Neptun hc. - Costineşti Tabără hc. - Costineşti - Eforie Sud - Eforie Nord - Constanţa - Bucureşti Nord Gr.A,2
-12,236037,R: Huedin - Cluj Napoca,R: Huedin - Jebuc h. - Stana Hm. - Aghireş h. - Aghireş - Dorolţu h. - Macău h. - Gârbău h. - Nădăşel h. - Mera Hm. - Rădaia h. - Suceag h. - Baciu h. - Baciu Triaj Hm. - Cluj Napoca,2
-13,236037,R: Bistriţa Bârgăului hcv. - Bistriţa Nord,R: Bistriţa Bârgăului hcv. - Bistriţa Bârgăului h. - Bistriţa Bârgăului Sat h. - Bârgău h. - Prundul Bârgaului h. - Susenii Bârgăului Hm. - Mijlocenii Bârgăului h. - Josenii Bârgăului h. - Rusul Bârgăului h. - Livezile Bârgăului h. - Bistriţa h. - Bistriţa Nord,2
-14,236037,R-E: Timişoara Nord - Oradea,R-E: Timişoara Nord - Ronaţ Triaj Gr. D - Sânandrei Hm. - Baile Calacea - Orţişoara - Vinga Hm. - Şag Hm. - Aradu Nou - Arad - Zimandu Nou h. - Sântana - Şimand Hm. - Nadab - Chişineu Criş - Ciumeghiu Hm. - Salonta - Leş Bihor Hm. - Oradea,2
-15,236037,R-E: Cluj Napoca - Bistriţa Nord,R-E: Cluj Napoca - Clujana h. - Apahida - Jucu Hm. - Jucu de Jos h. - Răscruci h. - Bonţida Hm. - Iclod Hm. - Gherla - Dej Calatori - Reteag Hm. - Reteag h. - Ciceu Cristur h. - Beclean pe Someş - Şintereag Hm. - Măgheruş Şieu Hm. - Bistriţa Nord,2
-16,236037,R: Mediaş - Sibiu,R: Mediaş - Târnava h. - Copşa Mică - Axente Sever h. - Agârbiciu h. - Şeica Mare - Şeica Mare h. - Haşag h. - Loamneş Hm. - Mândra h. - Băile Ocna Sibiului h. - Ocna Sibiului Hm. - Sibiu h.(203) - Sibiu,2
-17,236037,R: Cluj Napoca - Câmpia Turzii,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Dezmir h. - Apahida - Cojocna Hm. - Tunel Hm. - Boju Hm. - Valea Florilor Hm. - Ploscoş h. - Câmpia Turzii,2
-18,236037,R: Cluj Napoca - Huedin,R: Cluj Napoca - Baciu Triaj Hm. - Baciu h. - Suceag h. - Rădaia h. - Mera Hm. - Nădăşel h. - Gârbău h. - Macău h. - Dorolţu h. - Aghireş - Aghireş h. - Stana Hm. - Jebuc h. - Huedin,2
-19,236037,R: Letca Hm. - Jibou,R: Letca Hm. - Cuciulat Hm. - Băbuţeni Hm. - Ciocmani h. - Surduc Sălaj Hm. - Var h. - Jibou,2
-20,236037,R: Oradea - Aleşd,R: Oradea - Oradea Est - Oşorhei Hm. - Săcădat h. - Săbolciu h. - Tileagd - Telechiu Hm. - Ţeţchea h. - Aleşd,2
-21,236037,R-E: Cluj Napoca - Sibiu,R-E: Cluj Napoca - Clujana h. - Apahida - Cojocna Hm. - Boju Hm. - Valea Florilor Hm. - Ploscoş h. - Câmpia Turzii - Războieni - Unirea hc. - Aiud Hm. - Teiuş - Crăciunel Hm. - Blaj - Valea Lungă Hm. - Copşa Mică - Axente Sever h. - Şeica Mare - Şeica Mare h. - Loamneş Hm. - Băile Ocna Sibiului h. - Ocna Sibiului Hm. - Sibiu,2
-22,236037,R: Oradea - Valea lui Mihai,R: Oradea - Episcopia Bihor - Biharia Hm. - Tămăşeu h. - Roşiori Bihor h. - Diosig Hm. - Cadia h. - Săcuieni Bihor - Şilindru Hm. - Simion h. - Valea lui Mihai,2
-23,236037,R: Deda - Târgu Mureş,R: Deda - Ruşii Munţi h. - Aluniş Mureş Hm. - Halta Aluniş h. - Brâncoveneşti h. - Ideciu de Jos h. - Reghin - Petelea h. - Periş Mureş h. - Gorneşti Mureş h. - Dumbrăvioara Hm. - Târgu Mureş Nord Hm. - Târgu Mureş,2
-24,236037,R: Târgu Mureş - Câmpia Turzii,R: Târgu Mureş - Azomureş h. - Târgu Mureş Sud - G-ral N. Dăscălescu Hm. - Vidrasău h. - Chirileu h. - Sânpaul Hm. - Ogra h. - Cipău h. - Iernut - Cuci h. - Bogata Mureş h. - Luduş - Cheţani h. - Gligoreşti Hm. - Gura Arieşului h. - Lunca Mureşului h. - Războieni - Grindeni h. - Călăraşi Turda Hm. - Câmpia Turzii,2
-25,236037,R: Câmpia Turzii - Târgu Mureş,R: Câmpia Turzii - Călăraşi Turda Hm. - Grindeni h. - Războieni - Lunca Mureşului h. - Gura Arieşului h. - Gligoreşti Hm. - Cheţani h. - Luduş - Bogata Mureş h. - Cuci h. - Iernut - Cipău h. - Ogra h. - Sânpaul Hm. - Chirileu h. - Vidrasău h. - G-ral N. Dăscălescu Hm. - Târgu Mureş Sud - Azomureş h. - Târgu Mureş,2
-26,236037,R: Halmeu - Satu Mare,R: Halmeu - Porumbeşti Hm. - Micula Hm. - Ram. Botiz h. - Satu Mare,2
-27,236037,R: Bratca - Oradea,R: Bratca - Bălnaca h. - Şuncuiuş Hm. - Vadu Crişului h. - Vadu Crişului Hm. - Butan h. - Aleşd h. - Aleşd - Ţeţchea h. - Telechiu Hm. - Tileagd - Săbolciu h. - Săcădat h. - Oşorhei Hm. - Oradea Est - Oradea,2
-28,236037,R: Bistriţa Nord - Bistriţa Bârgăului hcv.,R: Bistriţa Nord - Susenii Bârgăului Hm. - Bistriţa Bârgăului hcv.,2
-29,236037,R: Bistriţa Nord - Cluj Napoca,R: Bistriţa Nord - Viişoara h. - Sărăţel - Arcalia hc. - Măgheruş Şieu Hm. - Sfântu h. - Caila hc. - Şintereag Hm. - Beclean pe Someş - Ciceu Cristur h. - Reteag h. - Reteag Hm. - Dej Triaj - Dej Calatori - Nima h. - Gherla - Livada Someş h. - Iclod Hm. - Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida h. - Apahida - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-30,236037,R: Baia Mare - Jibou,R: Baia Mare - Satulung pe Someş Hm. - Fersig h. - Mireşu Mare PM. - Ulmeni Sălaj - Ţicău h. - Benesat Hm. - Aluniş Sălaj h. - Inău h. - Someş Odorhei Hm. - Jibou,2
-31,236037,R-E: Sibiu - Cluj Napoca,R-E: Sibiu - Ocna Sibiului Hm. - Băile Ocna Sibiului h. - Loamneş Hm. - Şeica Mare h. - Şeica Mare - Axente Sever h. - Copşa Mică - Valea Lungă Hm. - Blaj - Crăciunel Hm. - Teiuş - Aiud Hm. - Unirea hc. - Războieni - Câmpia Turzii - Cojocna Hm. - Apahida - Clujana h. - Cluj Napoca,2
-32,236037,R: Sibiu - Mediaş,R: Sibiu - Sibiu h.(203) - Ocna Sibiului Hm. - Băile Ocna Sibiului h. - Mândra h. - Loamneş Hm. - Haşag h. - Şeica Mare h. - Şeica Mare - Agârbiciu h. - Axente Sever h. - Copşa Mică - Târnava h. - Mediaş,2
-33,236037,R: Târgu Mureş - Deda,R: Târgu Mureş - Târgu Mureş Nord Hm. - Dumbrăvioara Hm. - Gorneşti Mureş h. - Periş Mureş h. - Petelea h. - Reghin - Ideciu de Jos h. - Brâncoveneşti h. - Halta Aluniş h. - Aluniş Mureş Hm. - Ruşii Munţi h. - Deda,2
-34,236037,R: Arad - Caransebeş,R: Arad - Aradu Nou - Valea Viilor Hm. - Şag Hm. - Vinga Hm. - Orţişoara - Baile Calacea - Sânandrei Hm. - Timişoara Nord - Timişoara Est - Ghiroda h. - Remetea Mare - Izvin h. - Recaş - Şuştra h. - Topolovăţ - Chizătău Hm. - Belinţ Hm. - Jabăr Hm. - Lugoj - Tapia Hm. - Găvojdia - Jena Hm. - Sacu h. - Căvăran - Zăgujeni Hm. - Tibiscu h. - Caransebeş,2
-35,236037,R-E: Sibiu - Cluj Napoca,R-E: Sibiu - Ocna Sibiului Hm. - Băile Ocna Sibiului h. - Loamneş Hm. - Şeica Mare h. - Şeica Mare - Axente Sever h. - Copşa Mică - Valea Lungă Hm. - Blaj - Crăciunel Hm. - Coşlariu - Teiuş - Aiud Hm. - Unirea hc. - Războieni - Câmpia Turzii - Cojocna Hm. - Apahida - Clujana h. - Cluj Napoca,2
-36,236037,R: Jibou - Baia Mare,R: Jibou - Someş Odorhei Hm. - Inău h. - Aluniş Sălaj h. - Benesat Hm. - Ţicău h. - Ulmeni Sălaj - Mireşu Mare PM. - Fersig h. - Satulung pe Someş Hm. - Baia Mare,2
-37,236037,R: Oradea - Satu Mare,R: Oradea - Săcuieni Bihor - Şilindru Hm. - Simion h. - Valea lui Mihai - Curtuiuşeni h. - Resighea h. - Sanislău Hm. - Marna h. - Carei - Domăneşti h. - Moftin h. - Gen. Gh. Avramescu Hm. - Sătmărel h. - Satu Mare Sud - Satu Mare,2
-38,236037,R: Cluj Napoca - Bistriţa Nord,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Apahida - Jucu Hm. - Jucu de Jos h. - Răscruci h. - Bonţida Hm. - Iclod Hm. - Livada Someş h. - Gherla - Nima h. - Dej Calatori - Dej Triaj - Reteag Hm. - Reteag h. - Ciceu Cristur h. - Beclean pe Someş - Şintereag Hm. - Caila hc. - Sfântu h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Viişoara h. - Bistriţa Nord,2
-39,236037,R: Satu Mare - Halmeu,R: Satu Mare - Ram. Botiz h. - Micula Hm. - Porumbeşti Hm. - Halmeu,2
-40,236037,R-E: Bistriţa Nord - Cluj Napoca,R-E: Bistriţa Nord - Sărăţel - Măgheruş Şieu Hm. - Şintereag Hm. - Beclean pe Someş - Reteag h. - Reteag Hm. - Dej Calatori - Gherla - Iclod Hm. - Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-41,236037,R: Oradea - Cluj Napoca,R: Oradea - Oradea Est - Oşorhei Hm. - Tileagd - Telechiu Hm. - Ţeţchea h. - Aleşd - Aleşd h. - Butan h. - Vadu Crişului Hm. - Vadu Crişului h. - Şuncuiuş Hm. - Bălnaca h. - Bratca - Stâna de Vale h. - Bulz Hm. - Piatra Craiului Hm. - Lacu Crişului h. - Negreni h. - Ciucea Hm. - Valea Drăganului h. - Poieni - Bologa h. - Brăişoru Hm. - Huedin - Jebuc h. - Stana Hm. - Aghireş h. - Aghireş - Dorolţu h. - Macău h. - Gârbău h. - Nădăşel h. - Mera Hm. - Rădaia h. - Suceag h. - Baciu h. - Baciu Triaj Hm. - Cluj Napoca,2
-42,236037,R: Bistriţa Nord - Bistriţa Bârgăului hcv.,R: Bistriţa Nord - Bistriţa h. - Livezile Bârgăului h. - Rusul Bârgăului h. - Josenii Bârgăului h. - Mijlocenii Bârgăului h. - Susenii Bârgăului Hm. - Prundul Bârgaului h. - Bârgău h. - Bistriţa Bârgăului Sat h. - Bistriţa Bârgăului h. - Bistriţa Bârgăului hcv.,2
-43,236037,R-E: Bistriţa Nord - Cluj Napoca,R-E: Bistriţa Nord - Măgheruş Şieu Hm. - Şintereag Hm. - Beclean pe Someş - Reteag h. - Reteag Hm. - Dej Calatori - Gherla - Iclod Hm. - Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-44,236037,R: Satu Mare - Oradea,R: Satu Mare - Satu Mare Sud - Sătmărel h. - Gen. Gh. Avramescu Hm. - Moftin h. - Domăneşti h. - Carei - Marna h. - Sanislău Hm. - Resighea h. - Curtuiuşeni h. - Valea lui Mihai - Simion h. - Şilindru Hm. - Săcuieni Bihor - Cadia h. - Diosig Hm. - Roşiori Bihor h. - Tămăşeu h. - Biharia Hm. - Episcopia Bihor - Oradea,2
-45,236037,R: Topliţa - Târgu Mureş,R: Topliţa - Ciobotani h. - Stânceni Hm. - Stânceni h. - Stânceni Neagra h. - Lunca Bradului Hm. - Răstoliţa Hm. - Deda Bistra Hm. - Deda - Ruşii Munţi h. - Aluniş Mureş Hm. - Halta Aluniş h. - Brâncoveneşti h. - Ideciu de Jos h. - Reghin - Petelea h. - Periş Mureş h. - Gorneşti Mureş h. - Dumbrăvioara Hm. - Târgu Mureş Nord Hm. - Târgu Mureş,2
-46,236037,R: Satu Mare - Baia Mare,R: Satu Mare - Botiz Hm. - Odoreu h. - Medieşu Aurit Hm. - Apa Hm. - Seini - Săbişa h. - Ilba h. - Cicârlău h. - Buşag Hm. - Baia Mare,2
-47,236037,R: Cluj Napoca - Târgu Mureş,R: Cluj Napoca - Clujana h. - Apahida - Cojocna Hm. - Tunel Hm. - Boju Hm. - Valea Florilor Hm. - Ploscoş h. - Câmpia Turzii - Călăraşi Turda Hm. - Grindeni h. - Războieni - Lunca Mureşului h. - Gura Arieşului h. - Gligoreşti Hm. - Cheţani h. - Luduş - Bogata Mureş h. - Cuci h. - Iernut - Cipău h. - Ogra h. - Sânpaul Hm. - Chirileu h. - Vidrasău h. - G-ral N. Dăscălescu Hm. - Târgu Mureş Sud - Azomureş h. - Târgu Mureş,2
-48,236037,R: Aleşd - Oradea,R: Aleşd - Ţeţchea h. - Telechiu Hm. - Tileagd - Săbolciu h. - Săcădat h. - Oşorhei Hm. - Oradea Est Triaj h. - Oradea Est - Oradea,2
-49,236037,R: Oradea - Bratca,R: Oradea - Oradea Est - Oşorhei Hm. - Săcădat h. - Săbolciu h. - Tileagd - Telechiu Hm. - Ţeţchea h. - Aleşd - Aleşd h. - Butan h. - Vadu Crişului Hm. - Vadu Crişului h. - Şuncuiuş Hm. - Bălnaca h. - Bratca,2
-50,236037,R: Târgu Mureş - Cluj Napoca,R: Târgu Mureş - Azomureş h. - Târgu Mureş Sud - G-ral N. Dăscălescu Hm. - Vidrasău h. - Chirileu h. - Sânpaul Hm. - Ogra h. - Cipău h. - Iernut - Cuci h. - Bogata Mureş h. - Luduş - Cheţani h. - Gligoreşti Hm. - Gura Arieşului h. - Lunca Mureşului h. - Războieni - Grindeni h. - Călăraşi Turda Hm. - Câmpia Turzii - Ploscoş h. - Valea Florilor Hm. - Boju Hm. - Tunel Hm. - Cojocna Hm. - Apahida - Clujana h. - Cluj Napoca,2
-51,236037,R: Cluj Napoca - Dej Calatori,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Dezmir h. - Apahida - Apahida h. - Jucu Hm. - Răscruci h. - Bonţida Hm. - Fundătura h. - Iclod Hm. - Livada Someş h. - Gherla - Buneşti h. - Nima h. - Dej Calatori,2
-52,236037,R-E: Cluj Napoca - Bistriţa Nord,R-E: Cluj Napoca - Clujana h. - Apahida - Jucu Hm. - Răscruci h. - Bonţida Hm. - Iclod Hm. - Gherla - Dej Calatori - Reteag Hm. - Beclean pe Someş - Măgheruş Şieu Hm. - Bistriţa Nord,2
-53,236037,R: Oradea - Aleşd,R: Oradea - Aleşd,2
-54,236037,R-E: Cluj Napoca - Sibiu,R-E: Cluj Napoca - Clujana h. - Apahida - Cojocna Hm. - Câmpia Turzii - Războieni - Unirea hc. - Unirea Hm. - Aiud Hm. - Teiuş - Crăciunel Hm. - Blaj - Valea Lungă Hm. - Copşa Mică - Axente Sever h. - Şeica Mare - Şeica Mare h. - Loamneş Hm. - Băile Ocna Sibiului h. - Ocna Sibiului Hm. - Sibiu h.(203) - Sibiu,2
-55,236037,R: Cluj Napoca - Stana Hm.,R: Cluj Napoca - Baciu Triaj Hm. - Baciu h. - Suceag h. - Rădaia h. - Mera Hm. - Nădăşel h. - Gârbău h. - Macău h. - Dorolţu h. - Aghireş - Aghireş h. - Stana Hm.,2
-56,236037,R: Câmpia Turzii - Cluj Napoca,R: Câmpia Turzii - Ploscoş h. - Valea Florilor Hm. - Boju Hm. - Tunel Hm. - Cojocna Hm. - Apahida - Dezmir h. - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-57,236037,R: Valea lui Mihai - Oradea,R: Valea lui Mihai - Simion h. - Şilindru Hm. - Săcuieni Bihor - Cadia h. - Diosig Hm. - Roşiori Bihor h. - Tămăşeu h. - Biharia Hm. - Episcopia Bihor - Oradea,2
-58,236037,R-E: Cluj Napoca - Oradea,R-E: Cluj Napoca - Clujana h. - Apahida - Jucu Hm. - Bonţida Hm. - Iclod Hm. - Gherla - Dej Calatori - Căşeiu Hm. - Gâlgău - Ileanda - Letca Hm. - Băbuţeni Hm. - Surduc Sălaj Hm. - Jibou - Mirşid Hm. - Zalău Nord - Borla PM. - Sărmăşag - Şimleu Silvaniei - Măgura Şimleului h. - Nuşfalău h. - Ipu h. - Suplacu de Barcău - Balc h. - Abrami h. - Marghita - Petreu h. - Săcuieni Bihor - Diosig Hm. - Roşiori Bihor h. - Biharia Hm. - Episcopia Bihor - Oradea,2
-59,236037,R: Jibou - Letca Hm.,R: Jibou - Var h. - Surduc Sălaj Hm. - Ciocmani h. - Băbuţeni Hm. - Cuciulat Hm. - Letca Hm.,2
-60,236037,R: Lunca Ilvei - Bistriţa Nord,R: Lunca Ilvei - Ilva Mare Hm. - Măgura Ilvei Hm. - Poiana Ilvei - Leşu Ilvei Hm. - Strâmba h. - Ilva Mică - Podereia Feldrului h. - Feldru Hm. - Nepos h. - Rebrişoara Hm. - Năsăud - Năsăud h. - Salva - Mititei h. - Nimigea Hm. - Nimigea h. - Mogoşeni Hm. - Cociu h. - Beclean pe Someş - Şintereag Hm. - Caila hc. - Sfântu h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Bistriţa Nord,2
-61,236037,R: Cluj Napoca - Bistriţa Nord,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Apahida - Jucu Hm. - Jucu de Jos h. - Răscruci h. - Bonţida Hm. - Iclod Hm. - Livada Someş h. - Gherla - Nima h. - Dej Calatori - Reteag Hm. - Reteag h. - Ciceu Cristur h. - Beclean pe Someş - Şintereag Hm. - Caila hc. - Sfântu h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Viişoara h. - Bistriţa Nord,2
-62,236037,R: Dej Calatori - Cluj Napoca,R: Dej Calatori - Nima h. - Buneşti h. - Gherla - Livada Someş h. - Iclod Hm. - Fundătura h. - Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida h. - Apahida - Dezmir h. - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-63,236037,R: Lunca Ilvei - Beclean pe Someş,R: Lunca Ilvei - Ilva Mare Hm. - Măgura Ilvei Hm. - Poiana Ilvei - Leşu Ilvei Hm. - Strâmba h. - Ilva Mică - Podereia Feldrului h. - Feldru Hm. - Nepos h. - Năsăud - Năsăud h. - Salva - Mititei h. - Nimigea Hm. - Nimigea h. - Mogoşeni Hm. - Cociu h. - Beclean pe Someş,2
-64,236037,R: Stana Hm. - Cluj Napoca,R: Stana Hm. - Aghireş h. - Aghireş - Dorolţu h. - Macău h. - Gârbău h. - Nădăşel h. - Mera Hm. - Rădaia h. - Suceag h. - Baciu h. - Baciu Triaj Hm. - Cluj Napoca,2
-65,236037,R-E: Timişoara Nord - Oradea,R-E: Timişoara Nord - Ronaţ Triaj Gr. D - Sânandrei Hm. - Baile Calacea - Orţişoara - Vinga Hm. - Şag Hm. - Aradu Nou - Arad - Zimandu Nou h. - Sântana - Şimand Hm. - Nadab - Chişineu Criş - Ciumeghiu Hm. - Salonta - Oradea,2
-66,236037,R: Oradea - Satu Mare,R: Oradea - Episcopia Bihor - Biharia Hm. - Tămăşeu h. - Roşiori Bihor h. - Diosig Hm. - Cadia h. - Săcuieni Bihor - Şilindru Hm. - Simion h. - Valea lui Mihai - Curtuiuşeni h. - Resighea h. - Sanislău Hm. - Marna h. - Carei - Domăneşti h. - Moftin h. - Gen. Gh. Avramescu Hm. - Sătmărel h. - Satu Mare Sud - Satu Mare,2
-67,236037,R: Baia Mare - Satu Mare,R: Baia Mare - Buşag Hm. - Cicârlău h. - Ilba h. - Săbişa h. - Seini - Apa Hm. - Medieşu Aurit Hm. - Odoreu h. - Botiz Hm. - Satu Mare,2
-68,236037,R: Caransebeş - Arad,R: Caransebeş - Tibiscu h. - Zăgujeni Hm. - Căvăran - Sacu h. - Jena Hm. - Găvojdia - Tapia Hm. - Lugoj - Jabăr Hm. - Belinţ Hm. - Chizătău Hm. - Topolovăţ - Şuştra h. - Recaş - Izvin h. - Remetea Mare - Ghiroda h. - Timişoara Est - Timişoara Nord - Ronaţ Triaj Gr. D - Sânandrei Hm. - Baile Calacea - Orţişoara - Vinga Hm. - Şag Hm. - Valea Viilor Hm. - Aradu Nou - Arad,2
-69,236037,R: Beclean pe Someş - Bistriţa Nord,R: Beclean pe Someş - Şintereag Hm. - Caila hc. - Sfântu h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Bistriţa Nord,2
-70,236037,R-E: Oradea - Timişoara Nord,R-E: Oradea - Salonta - Ciumeghiu Hm. - Chişineu Criş - Nadab - Şimand Hm. - Sântana - Zimandu Nou h. - Arad - Aradu Nou - Şag Hm. - Vinga Hm. - Orţişoara - Baile Calacea - Sânandrei Hm. - Timişoara Nord,2
-71,236037,R: Cluj Napoca - Oradea,R: Cluj Napoca - Baciu Triaj Hm. - Baciu h. - Suceag h. - Rădaia h. - Mera Hm. - Nădăşel h. - Gârbău h. - Macău h. - Dorolţu h. - Aghireş - Aghireş h. - Stana Hm. - Jebuc h. - Huedin - Brăişoru Hm. - Bologa h. - Poieni - Valea Drăganului h. - Ciucea Hm. - Negreni h. - Lacu Crişului h. - Piatra Craiului Hm. - Bulz Hm. - Stâna de Vale h. - Bratca - Bălnaca h. - Şuncuiuş Hm. - Vadu Crişului h. - Vadu Crişului Hm. - Butan h. - Aleşd h. - Aleşd - Ţeţchea h. - Telechiu Hm. - Tileagd - Oşorhei Hm. - Oradea Est - Oradea,2
-72,236037,R: Oradea - Bratca,R: Oradea - Aleşd - Bratca,2
-73,236037,R: Târgu Mureş - Topliţa,R: Târgu Mureş - Târgu Mureş Nord Hm. - Dumbrăvioara Hm. - Gorneşti Mureş h. - Periş Mureş h. - Petelea h. - Reghin - Ideciu de Jos h. - Brâncoveneşti h. - Halta Aluniş h. - Aluniş Mureş Hm. - Ruşii Munţi h. - Deda - Deda Bistra Hm. - Răstoliţa Hm. - Lunca Bradului Hm. - Stânceni Neagra h. - Stânceni h. - Stânceni Hm. - Ciobotani h. - Topliţa,2
-74,236037,R-E: Oradea - Cluj Napoca,R-E: Oradea - Episcopia Bihor - Biharia Hm. - Roşiori Bihor h. - Diosig Hm. - Săcuieni Bihor - Petreu h. - Marghita - Abrami h. - Balc h. - Suplacu de Barcău - Ipu h. - Nuşfalău h. - Măgura Şimleului h. - Şimleu Silvaniei - Sărmăşag - Câmpia Sălaj h. - Bocşa Sălaj h. - Zalău Nord - Mirşid Hm. - Jibou - Surduc Sălaj Hm. - Letca Hm. - Ileanda - Gâlgău - Căşeiu Hm. - Dej Calatori - Gherla - Iclod Hm. - Bonţida Hm. - Jucu Hm. - Apahida - Clujana h. - Cluj Napoca,2
-75,236037,R: Dej Calatori - Cluj Napoca,R: Dej Calatori - Nima h. - Buneşti h. - Gherla - Livada Someş h. - Iclod Hm. - Fundătura h. - Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida h. - Apahida - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-76,236037,R: Târgu Mureş - Topliţa,R: Târgu Mureş - Târgu Mureş Nord Hm. - Dumbrăvioara Hm. - Gorneşti Mureş h. - Periş Mureş h. - Petelea h. - Reghin - Ideciu de Jos h. - Brâncoveneşti h. - Halta Aluniş h. - Aluniş Mureş Hm. - Ruşii Munţi h. - Deda - Deda Bistra Hm. - Borzia h. - Răstoliţa Hm. - Lunca Bradului Hm. - Stânceni Hm. - Ciobotani h. - Topliţa,2
-77,236037,R: Caransebeş - Arad,R: Caransebeş - Tibiscu h. - Zăgujeni Hm. - Căvăran - Sacu h. - Jena Hm. - Găvojdia - Tapia Hm. - Lugoj - Jabăr Hm. - Belinţ Hm. - Chizătău Hm. - Topolovăţ - Şuştra h. - Recaş - Izvin h. - Remetea Mare - Ghiroda h. - Timişoara Est - Timişoara Nord - Ronaţ Triaj Gr. D - Sânandrei Hm. - Baile Calacea - Orţişoara - Vinga Hm. - Şag Hm. - Aradu Nou - Arad,2
-78,236037,R: Cluj Napoca - Bistriţa Nord,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Apahida - Jucu Hm. - Răscruci h. - Bonţida Hm. - Iclod Hm. - Livada Someş h. - Gherla - Nima h. - Dej Calatori - Reteag Hm. - Reteag h. - Ciceu Cristur h. - Beclean pe Someş - Şintereag Hm. - Caila hc. - Sfântu h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Viişoara h. - Bistriţa Nord,2
-79,236037,R-E: Timişoara Nord - Oradea,R-E: Timişoara Nord - Sânandrei Hm. - Baile Calacea - Orţişoara - Vinga Hm. - Şag Hm. - Aradu Nou - Arad - Zimandu Nou h. - Sântana - Şimand Hm. - Nadab - Chişineu Criş - Ciumeghiu Hm. - Salonta - Oradea Vest Hm. - Oradea,2
-80,236037,R: Beclean pe Someş - Lunca Ilvei,R: Beclean pe Someş - Cociu h. - Mogoşeni Hm. - Nimigea h. - Nimigea Hm. - Mititei h. - Salva - Năsăud h. - Năsăud - Nepos h. - Feldru Hm. - Podereia Feldrului h. - Ilva Mică - Strâmba h. - Leşu Ilvei Hm. - Poiana Ilvei - Măgura Ilvei Hm. - Ilva Mare Hm. - Lunca Ilvei,2
-81,236037,R: Arad - Caransebeş,R: Arad - Aradu Nou - Valea Viilor Hm. - Şag Hm. - Vinga Hm. - Orţişoara - Baile Calacea - Sânandrei Hm. - Ronaţ Triaj Gr. D - Timişoara Nord - Timişoara Est - Ghiroda h. - Remetea Mare - Izvin h. - Recaş - Şuştra h. - Topolovăţ - Chizătău Hm. - Belinţ Hm. - Jabăr Hm. - Lugoj - Tapia Hm. - Găvojdia - Jena Hm. - Sacu h. - Căvăran - Zăgujeni Hm. - Tibiscu h. - Caransebeş,2
-82,236037,R: Baia Mare - Jibou,R: Baia Mare - Satulung pe Someş Hm. - Ulmeni Sălaj - Ţicău h. - Benesat Hm. - Aluniş Sălaj h. - Inău h. - Someş Odorhei Hm. - Jibou,2
-83,236037,R: Bistriţa Nord - Lunca Ilvei,R: Bistriţa Nord - Sărăţel - Arcalia hc. - Măgheruş Şieu Hm. - Sfântu h. - Caila hc. - Şintereag Hm. - Beclean pe Someş - Cociu h. - Mogoşeni Hm. - Nimigea h. - Nimigea Hm. - Mititei h. - Salva - Năsăud h. - Năsăud - Rebrişoara Hm. - Nepos h. - Feldru Hm. - Podereia Feldrului h. - Ilva Mică - Strâmba h. - Leşu Ilvei Hm. - Poiana Ilvei - Măgura Ilvei Hm. - Ilva Mare Hm. - Lunca Ilvei,2
-84,236037,R: Bistriţa Nord - Cluj Napoca,R: Bistriţa Nord - Viişoara h. - Sărăţel - Arcalia hc. - Măgheruş Şieu Hm. - Sfântu h. - Caila hc. - Şintereag Hm. - Beclean pe Someş - Ciceu Cristur h. - Reteag h. - Reteag Hm. - Dej Calatori - Nima h. - Gherla - Livada Someş h. - Iclod Hm. - Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida h. - Apahida - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-85,227098,R: Braşov - Breţcu Hm.,R: Braşov - Pav. CFR Braşov Triaj h. - Hărman - Ilieni h. - Prejmer Hm. - Chichiş h. - Ozun Hm. - Sfântu Gheorghe - Angheluş h. - Moacşa hcv. - Biţa h. - Boroşneu Mare h. - Ţufalău h. - Brateş h. - Covasna Hm. - Zăbala h. - Imeci Hm. - Cătălina h. - Târgu Secuiesc - Sânzieni h. - Poieniţa h. - Bălani h. - Mereni Lutoasa h. - Lemnia h. - Breţcu Hm.,2
-86,227098,R: Buhăieşti - Roman,R: Buhăieşti - Negreşti Vaslui Hm. - Rafaila h. - Dumeşti h. - Mareşal C-tin Prezan Hm. - Suhuleţ h. - Băluşeşti h. - Dagâţa - Zece Prăjini h. - Piscu Rusului h. - Stăniţa h. - Vulpăşeşti h. - Sagna h. - Roman,2
-87,227098,R: Roman - Buhăieşti,R: Roman - Sagna h. - Vulpăşeşti h. - Stăniţa h. - Piscu Rusului h. - Zece Prăjini h. - Dagâţa - Băluşeşti h. - Suhuleţ h. - Mareşal C-tin Prezan Hm. - Dumeşti h. - Rafaila h. - Negreşti Vaslui Hm. - Buhăieşti,2
-88,227098,R-E: Bucureşti Nord Gr.A - Braşov,R-E: Bucureşti Nord Gr.A - Chitila - Buftea - Dârza h. - Periş - Crivina - Ploieşti Vest - Floreşti Prahova - Câmpina - Comarnic - Sinaia - Buşteni - Azuga - Predeal - Braşov,2
-89,227098,R: Zărneşti - Braşov,R: Zărneşti - G-ral T.Moşoiu h. - Tohanu Vechi h. - Râşnov h. - Râşnov Hm. - Cristian Hm. - Bartolomeu - Braşov,2
-90,227098,R: Blaj - Târnăveni,R: Blaj - Sâncel h. - Pănade h. - Şona h. - Sfântu Nicolae h. - Jidvei  hcv. - Feisa h. - Cetatea de Baltă h. - Crăieşti h. - Corneşti Târnava h. - Adămuş h. - Târnăveni Vest h. - Târnăveni,2
-91,227098,R: Dorohoi - Iaşi,R: Dorohoi - Broscăuţi h. - Carasa h. - Corlăteni h. - Mateieni h. - Vorniceni h. - Mândreşti h. - Ungureni Hm. - Dângeni Nord h. - Dângeni Hm. - Buhăceni h. - Truşeşti Hm. - Zlătunoaia h. - Jijia h. - Todireni Hm. - Răuşeni h. - Rediu h. - Andrieşeni h. - Şoldana h. - Iacobenii Vechi h. - Vlădeni - Larga Jijia Hm. - Biserica Larga Jijia h. - Potângeni h. - Movileni h. - Leţcani - Iaşi,2
-92,227098,R: Arad - Nădlac,R: Arad - Arad Vest - Ferma Ciala h. - Sântoma h. - Pecica - Canton Nr. 9 h. - Semlac h. - Şeitin h. - Nădlac,2
-93,227098,R: Iaşi - Hârlău,R: Iaşi - Leţcani - Podu Iloaiei - Erbiceni h. - Spinoasa h. - Belceşti Hm. - Podu Ulmi h. - Hodora h. - Cotnari h. - Cepleniţa h. - Bădeni h. - Hârlău,2
-94,227098,R: Nădlac - Arad,R: Nădlac - Şeitin h. - Semlac h. - Canton Nr. 9 h. - Pecica - Sântoma h. - Ferma Ciala h. - Arad Vest - Arad,2
-95,227098,R-E: Suceava Nord - Iaşi,R-E: Suceava Nord - Suceava - Vereşti - Liteni Hm. - Corni h. - Dolhasca - Lespezi Hm. - Paşcani - Ruginoasa Hm. - Târgu Frumos - Podu Iloaiei - Iaşi,2
-96,227098,R: Timişoara Nord - Reşiţa Nord,R: Timişoara Nord - Timişoara Sud - Timişoara C.E.T. - Timişeni Hm. - Pădureni Timiş P.M. - Jebel Hm. - Voiteni - Birda hcv. - Gataia Hm. - Măureni h. - Gherteniş h. - Berzovia Hm. - Bocşa Română hc. - Vasiova - Bocşa Montană h. - Moniom h. - Reşiţa Nord,2
-97,227098,R: Braşov - Zărneşti,R: Braşov - Bartolomeu - Cristian Hm. - Râşnov Hm. - Râşnov h. - Tohanu Vechi h. - G-ral T.Moşoiu h. - Zărneşti,2
-98,227098,R: Iaşi - Dorohoi,R: Iaşi - Leţcani - Movileni h. - Potângeni h. - Biserica Larga Jijia h. - Larga Jijia Hm. - Vlădeni - Iacobenii Vechi h. - Şoldana h. - Andrieşeni h. - Rediu h. - Răuşeni h. - Todireni Hm. - Jijia h. - Zlătunoaia h. - Truşeşti Hm. - Buhăceni h. - Dângeni Hm. - Dângeni Nord h. - Ungureni Hm. - Mândreşti h. - Vorniceni h. - Mateieni h. - Corlăteni h. - Carasa h. - Broscăuţi h. - Dorohoi,2
-99,227098,R: Alba Iulia - Zlatna hcv.,R: Alba Iulia - Bărăbanţ Hm. - Antestaţie Bărăbanţ h. - Bărăbanţ Nord h. - Şard Ighiu h. - Ampoiţa h. - Tăutu Ampoiului h. - Văleni Meteş h. - Poiana Ampoiului h. - Prisaca h. - Feneş h. - Zlatna Tehnică - Zlatna h. - Zlatna hcv.,2
-100,227098,R: Timişoara Nord - Jimbolia,R: Timişoara Nord - Săcălaz h. - Beregsău hcv. - Cărpiniş - Checea Sat P.O. - Clarii Vii h. - Jimbolia,2
-101,227098,R: Timişoara Nord - Reşiţa Nord,R: Timişoara Nord - Timişoara Sud - Timişeni Hm. - Pădureni Timiş P.M. - Jebel Hm. - Voiteni - Birda hcv. - Gataia Hm. - Măureni h. - Gherteniş h. - Berzovia Hm. - Bocşa Română hc. - Vasiova - Bocşa Montană h. - Moniom h. - Reşiţa Nord,2
-102,227098,R: Ploieşti Sud - Urziceni,R: Ploieşti Sud - Dâmbu Hm. - Corlăteşti Hm. - Râfov h. - Trestieni h. - Zănoaga Hm. - Cornurile h. - Drăgăneşti Prahova Hm. - Hătcărău h. - Ciorani Hm. - Fulga h. - Ialomiţa Hm. - Armăşeşti Hm. - Bărbuleşti h. - Urziceni,2
-103,227098,R: Roman - Dagâţa,R: Roman - Sagna h. - Vulpăşeşti h. - Stăniţa h. - Piscu Rusului h. - Zece Prăjini h. - Dagâţa,2
-104,227098,R: Cenad h. - Sânnicolau Mare Hm.,R: Cenad h. - Sânnicolau Nord h. - Sânnicolau Mare Hm.,2
-105,227098,R: Blaj - Bălăuşeri hcv.,R: Blaj - Sâncel h. - Pănade h. - Şona h. - Sfântu Nicolae h. - Jidvei  hcv. - Feisa h. - Cetatea de Baltă h. - Crăieşti h. - Corneşti Târnava h. - Adămuş h. - Târnăveni Vest h. - Târnăveni - Şeuca h. - Găneşti h. - Deaj h. - Mica h. - Bernadea h. - Bahnea h. - Laslău h. - Şoimuş h. - Coroiu h. - Bălăuşeri hcv.,2
-106,227098,R: Urziceni - Ploieşti Sud,R: Urziceni - Bărbuleşti h. - Armăşeşti Hm. - Ialomiţa Hm. - Fulga h. - Ciorani Hm. - Hătcărău h. - Drăgăneşti Prahova Hm. - Cornurile h. - Zănoaga Hm. - Trestieni h. - Râfov h. - Corlăteşti Hm. - Dâmbu Hm. - Ploieşti Sud,2
-107,227098,R: Braşov - Întorsura Buzăului Hm,R: Braşov - Pav. CFR Braşov Triaj h. - Hărman - Budila h. - Teliu h. - Valea Teliului h. - Poiana Florilor h. - Întorsura Buzăului Hm,2
-108,227098,R-E: Mărăşeşti - Iaşi,R-E: Mărăşeşti - Tecuci - Tecuci Nord h.(600) - Bârlad - Zorleni Hm. - Banca h. - Crasna - Vaslui - Bălteni Hm. - Buhăieşti - Rebricea Hm. - Scânteia Hm. - Grajduri - Bârnova Hm. - Ciurea Hm. - Nicolina - Iaşi,2
-109,227098,R: Întorsura Buzăului Hm - Braşov,R: Întorsura Buzăului Hm - Poiana Florilor h. - Valea Teliului h. - Teliu h. - Budila h. - Hărman - Pav. CFR Braşov Triaj h. - Braşov,2
-110,227098,R: Cruceni hcv. - Timişoara Nord,R: Cruceni hcv. - Rudna h. - Giulvăz h. - Cebza h. - Peciu Nou h. - Parţa h. - Sânmihai h. - Utvin h. - Timişoara Vest Hm. - Timişoara Nord,2
-111,227098,R: Zlatna hcv. - Alba Iulia,R: Zlatna hcv. - Zlatna h. - Zlatna Tehnică - Feneş h. - Prisaca h. - Poiana Ampoiului h. - Văleni Meteş h. - Tăutu Ampoiului h. - Ampoiţa h. - Şard Ighiu h. - Bărăbanţ Nord h. - Antestaţie Bărăbanţ h. - Bărăbanţ Hm. - Alba Iulia,2
-112,227098,R: Jimbolia - Timişoara Nord,R: Jimbolia - Clarii Vii h. - Checea Sat P.O. - Cărpiniş - Beregsău hcv. - Săcălaz h. - Timişoara Nord,2
-113,227098,R: Dagâţa - Buhăieşti,R: Dagâţa - Băluşeşti h. - Suhuleţ h. - Mareşal C-tin Prezan Hm. - Dumeşti h. - Rafaila h. - Negreşti Vaslui Hm. - Buhăieşti,2
-114,227098,R: Hârlău - Iaşi,R: Hârlău - Bădeni h. - Cepleniţa h. - Cotnari h. - Hodora h. - Podu Ulmi h. - Belceşti Hm. - Spinoasa h. - Erbiceni h. - Podu Iloaiei - Leţcani - Iaşi,2
-115,227098,R: Timişoara Nord - Reşiţa Nord,R: Timişoara Nord - Timişoara Sud - Timişoara C.E.T. - Timişeni Hm. - Pădureni Timiş P.M. - Jebel Hm. - Voiteni - Birda hcv. - Gataia Hm. - Măureni h. - Gherteniş h. - Berzovia Hm. - Bocşa Română hc. - Vasiova - Bocşa Montană h. - Colţan h. - Moniom h. - Reşiţa Nord,2
-116,227098,R: Sărmaşu h. - Bistriţa Nord,R: Sărmaşu h. - Sărmăşel Gaz Metan h. - Sărmaşel hcv. - Ţăgşor h. - Ţagu Sat h. - Ţagu h. - Budeşti Cluj h. - Miceştii de Câmpie h. - Sânmihaiu de Câmpie h. - Brăteni h. - Sângiorgiu Nou h. - Vermeş h. - Lechinţa - Ţigău h. - Chiraleş h. - Chintelnic h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Sărata h. - Bistriţa Fabrici h. - Bistriţa Nord,2
-117,227098,R-E: Braşov - Bucureşti Nord Gr.A,R-E: Braşov - Predeal - Azuga - Buşteni - Sinaia - Comarnic - Câmpina - Floreşti Prahova - Ploieşti Vest - Crivina - Periş - Dârza h. - Buftea - Chitila - Bucureşti Nord Gr.A,2
-118,227098,R: Arad - Nădlac,R: Arad - Arad Vest - Ferma Ciala h. - Sântoma h. - Pecica - Semlac h. - Şeitin h. - Nădlac,2
-119,227098,R-E: Mărăşeşti - Ploieşti Vest,R-E: Mărăşeşti - Focşani - Gugeşti - Sihlea Hm. - Râmnicu Sărat - Buzău - Mizil - Ploieşti Sud - Ploieşti Vest,2
-120,227098,R: Truşeşti Hm. - Iaşi,R: Truşeşti Hm. - Zlătunoaia h. - Jijia h. - Todireni Hm. - Răuşeni h. - Rediu h. - Andrieşeni h. - Şoldana h. - Iacobenii Vechi h. - Vlădeni - Larga Jijia Hm. - Biserica Larga Jijia h. - Potângeni h. - Movileni h. - Leţcani - Iaşi,2
-121,227098,R: Arad - Sânnicolau Mare Hm.,R: Arad - Aradu Nou - Zădăreni Hm. - Bodrogu Nou h. - Felnac h. - Sânpetru German h. - Munor h. - Secusigiu h. - Aranca h. - Periam - Sânpetru h. - Saravale h. - Sânnicolau Mare Hm.,2
-122,227098,R: Sânnicolau Mare Hm. - Arad,R: Sânnicolau Mare Hm. - Saravale h. - Sânpetru h. - Periam - Aranca h. - Secusigiu h. - Munor h. - Sânpetru German h. - Felnac h. - Bodrogu Nou h. - Zădăreni Hm. - Aradu Nou - Arad,2
-123,227098,R: Timişoara Nord - Remetea Mică,R: Timişoara Nord - Timişoara Est - Viile Giarmata h. - Giarmata Hm. - Cerneteaz h. - Pişchia h. - Bencei h. - Fibiş h. - Remetea Mică,2
-124,227098,R: Sărmaşel hcv. - Luduş,R: Sărmaşel hcv. - Sărmăşel Gaz Metan h. - Sărmaşu h. - Balda h. - Miheşu de Câmpie Sat h. - Miheşu de Câmpie h. - Bota Sat h. - Zau de Câmpie h. - Melini Valea Largă h. - Tăureni h. - Sânger Tăureni h. - Luduş Sat h. - Luduş,2
-125,227098,R: Ploieşti Sud - Drăgăneşti Prahova Hm.,R: Ploieşti Sud - Dâmbu Hm. - Corlăteşti Hm. - Râfov h. - Trestieni h. - Zănoaga Hm. - Cornurile h. - Drăgăneşti Prahova Hm.,2
-126,227098,R: Breţcu Hm. - Sfântu Gheorghe,R: Breţcu Hm. - Lemnia h. - Mereni Lutoasa h. - Bălani h. - Poieniţa h. - Sânzieni h. - Târgu Secuiesc - Cătălina h. - Imeci Hm. - Zăbala h. - Covasna Hm. - Brateş h. - Ţufalău h. - Boroşneu Mare h. - Biţa h. - Moacşa hcv. - Angheluş h. - Sfântu Gheorghe,2
-127,227098,R: Luduş - Bistriţa Nord,R: Luduş - Luduş Sat h. - Sânger Tăureni h. - Tăureni h. - Melini Valea Largă h. - Zau de Câmpie h. - Bota Sat h. - Miheşu de Câmpie h. - Miheşu de Câmpie Sat h. - Balda h. - Sărmaşu h. - Sărmăşel Gaz Metan h. - Sărmaşel hcv. - Ţăgşor h. - Ţagu Sat h. - Ţagu h. - Budeşti Cluj h. - Miceştii de Câmpie h. - Sânmihaiu de Câmpie h. - Brăteni h. - Sângiorgiu Nou h. - Vermeş h. - Lechinţa - Ţigău h. - Chiraleş h. - Chintelnic h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Sărata h. - Bistriţa Fabrici h. - Bistriţa Nord,2
-128,227098,R-E: Iaşi - Suceava Nord,R-E: Iaşi - Podu Iloaiei - Târgu Frumos - Ruginoasa Hm. - Paşcani - Lespezi Hm. - Dolhasca - Corni h. - Liteni Hm. - Vereşti - Suceava - Suceava Nord,2
-129,227098,R: Reşiţa Nord - Timişoara Nord,R: Reşiţa Nord - Câlnic h. - Moniom h. - Colţan h. - Bocşa Montană h. - Vasiova - Bocşa Română hc. - Berzovia Hm. - Gherteniş h. - Măureni h. - Gataia Hm. - Birda hcv. - Voiteni - Jebel Hm. - Pădureni Timiş P.M. - Timişeni Hm. - Timişoara Sud - Timişoara Nord,2
-130,227098,R: Remetea Mică - Timişoara Nord,R: Remetea Mică - Fibiş h. - Bencei h. - Pişchia h. - Cerneteaz h. - Giarmata Hm. - Viile Giarmata h. - Timişoara Est - Timişoara Nord,2
-131,227098,R: Târnăveni - Blaj,R: Târnăveni - Târnăveni Vest h. - Adămuş h. - Corneşti Târnava h. - Crăieşti h. - Cetatea de Baltă h. - Feisa h. - Jidvei  hcv. - Sfântu Nicolae h. - Şona h. - Pănade h. - Sâncel h. - Blaj,2
-132,227098,R: Nădlac - Arad,R: Nădlac - Şeitin h. - Semlac h. - Pecica - Sântoma h. - Ferma Ciala h. - Arad Vest - Arad,2
-133,227098,R: Roman - Iaşi,R: Roman - Sagna h. - Vulpăşeşti h. - Stăniţa h. - Piscu Rusului h. - Zece Prăjini h. - Dagâţa - Băluşeşti h. - Suhuleţ h. - Mareşal C-tin Prezan Hm. - Dumeşti h. - Rafaila h. - Negreşti Vaslui Hm. - Buhăieşti - Rateşu Cuzei h. - Rebricea Hm. - Scânteia Hm. - Grajduri - Bârnova Hm. - Picioru Lupului h. - Ciurea Hm. - Nicolina - Iaşi,2
-134,227098,R: Timişoara Nord - Reşiţa Nord,R: Timişoara Nord - Timişoara Sud - Jebel Hm. - Voiteni - Gataia Hm. - Măureni h. - Gherteniş h. - Berzovia Hm. - Bocşa Română hc. - Vasiova - Bocşa Montană h. - Colţan h. - Moniom h. - Reşiţa Nord,2
-135,227098,R: Breţcu Hm. - Braşov,R: Breţcu Hm. - Lemnia h. - Mereni Lutoasa h. - Bălani h. - Poieniţa h. - Sânzieni h. - Târgu Secuiesc - Cătălina h. - Imeci Hm. - Zăbala h. - Covasna Hm. - Brateş h. - Ţufalău h. - Boroşneu Mare h. - Biţa h. - Moacşa hcv. - Angheluş h. - Sfântu Gheorghe - Ozun Hm. - Chichiş h. - Prejmer Hm. - Ilieni h. - Hărman - Pav. CFR Braşov Triaj h. - Braşov,2
-136,227098,R: Iaşi - Vaslui,R: Iaşi - Nicolina - Ciurea Hm. - Picioru Lupului h. - Bârnova Hm. - Grajduri - Scânteia Hm. - Rebricea Hm. - Rateşu Cuzei h. - Buhăieşti - Bârzeşti h. - Brăhăşoaia h. - Bălteni Hm. - Vaslui,2
-137,227098,R: Timişoara Nord - Cruceni hcv.,R: Timişoara Nord - Timişoara Vest Hm. - Utvin h. - Sânmihai h. - Parţa h. - Peciu Nou h. - Cebza h. - Giulvăz h. - Rudna h. - Cruceni hcv.,2
-138,227098,R: Sfântu Gheorghe - Braşov,R: Sfântu Gheorghe - Ozun Hm. - Chichiş h. - Prejmer Hm. - Ilieni h. - Hărman - Pav. CFR Braşov Triaj h. - Braşov,2
-139,227098,R: Timişoara Nord - Sânnicolau Mare Hm.,R: Timişoara Nord - Ronaţ Triaj h.. - Ronaţ Triaj Gr. D - Dudeştii Noi Hm. - Pescăreţu Mic h. - Biled Hm. - Şandra h. - Satu Nou Hm. - Lovrin - Tomnaticu h. - Sânnicolau Mare Hm.,2
-140,227098,R-E: Mărăşeşti - Iaşi,R-E: Mărăşeşti - Tecuci - Tecuci Nord h.(600) - Berheci Hm. - Bârlad - Zorleni Hm. - Banca h. - Crasna - Vaslui - Bălteni Hm. - Buhăieşti - Rebricea Hm. - Scânteia Hm. - Grajduri - Bârnova Hm. - Ciurea Hm. - Nicolina - Iaşi,2
-141,227098,R: Sânnicolau Mare Hm. - Cenad h.,R: Sânnicolau Mare Hm. - Sânnicolau Nord h. - Cenad h.,2
-142,227098,R: Sărmaşel hcv. - Bistriţa Nord,R: Sărmaşel hcv. - Ţăgşor h. - Ţagu Sat h. - Ţagu h. - Budeşti Cluj h. - Miceştii de Câmpie h. - Sânmihaiu de Câmpie h. - Brăteni h. - Sângiorgiu Nou h. - Vermeş h. - Lechinţa - Ţigău h. - Chiraleş h. - Chintelnic h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Sărata h. - Bistriţa Fabrici h. - Bistriţa Nord,2
-143,227098,R: Vaslui - Iaşi,R: Vaslui - Bălteni Hm. - Brăhăşoaia h. - Bârzeşti h. - Buhăieşti - Rateşu Cuzei h. - Rebricea Hm. - Scânteia Hm. - Grajduri - Bârnova Hm. - Picioru Lupului h. - Ciurea Hm. - Nicolina - Iaşi,2
-144,227098,R-E: Mărăşeşti - Iaşi,R-E: Mărăşeşti - Tecuci Nord h.(605) - Bârlad - Zorleni Hm. - Banca h. - Crasna - Vaslui - Bălteni Hm. - Buhăieşti - Rebricea Hm. - Scânteia Hm. - Grajduri - Bârnova Hm. - Ciurea Hm. - Nicolina - Iaşi,2
-145,227098,R: Sânnicolau Mare Hm. - Vălcani hcv.,R: Sânnicolau Mare Hm. - Dudeştii Vechi  h. - Vălcani hcv.,2
-146,227098,R: Luduş - Sărmaşel hcv.,R: Luduş - Luduş Sat h. - Sânger Tăureni h. - Tăureni h. - Melini Valea Largă h. - Zau de Câmpie h. - Bota Sat h. - Miheşu de Câmpie h. - Miheşu de Câmpie Sat h. - Balda h. - Sărmaşu h. - Sărmăşel Gaz Metan h. - Sărmaşel hcv.,2
-147,227098,R-E: Iaşi - Mărăşeşti,R-E: Iaşi - Nicolina - Ciurea Hm. - Bârnova Hm. - Grajduri - Scânteia Hm. - Rebricea Hm. - Buhăieşti - Bălteni Hm. - Vaslui - Crasna - Banca h. - Zorleni Hm. - Bârlad - Tecuci Nord h.(605) - Mărăşeşti,2
-148,227098,R: Vălcani hcv. - Arad,R: Vălcani hcv. - Dudeştii Vechi  h. - Sânnicolau Mare Hm. - Saravale h. - Sânpetru h. - Periam - Aranca h. - Secusigiu h. - Munor h. - Sânpetru German h. - Felnac h. - Bodrogu Nou h. - Zădăreni Hm. - Aradu Nou - Arad,2
-149,227098,IR: Braşov - Mangalia,IR: Braşov - Predeal - Azuga - Buşteni - Sinaia - Câmpina - Ploieşti Vest - Bucureşti Băneasa - Feteşti - Medgidia - Constanţa - Eforie Nord - Eforie Sud - Costineşti - Costineşti Tabără hc. - Neptun hc. - Mangalia,2
-150,227098,R: Bălăuşeri hcv. - Blaj,R: Bălăuşeri hcv. - Coroiu h. - Şoimuş h. - Laslău h. - Bahnea h. - Bernadea h. - Mica h. - Deaj h. - Găneşti h. - Şeuca h. - Târnăveni - Târnăveni Vest h. - Adămuş h. - Corneşti Târnava h. - Crăieşti h. - Cetatea de Baltă h. - Feisa h. - Jidvei  hcv. - Sfântu Nicolae h. - Şona h. - Pănade h. - Sâncel h. - Blaj,2
-151,227098,R: Braşov - Întorsura Buzăului Hm,R: Braşov - Braşov Triaj - Hărman - Budila h. - Teliu h. - Valea Teliului h. - Poiana Florilor h. - Întorsura Buzăului Hm,2
-152,227098,R: Timişoara Nord - Sânnicolau Mare Hm.,R: Timişoara Nord - Ronaţ Triaj Gr. D - Dudeştii Noi Hm. - Pescăreţu Mic h. - Biled Hm. - Şandra h. - Satu Nou Hm. - Lovrin - Tomnaticu h. - Sânnicolau Mare Hm.,2
-153,227098,R: Sânnicolau Mare Hm. - Timişoara Nord,R: Sânnicolau Mare Hm. - Tomnaticu h. - Lovrin - Satu Nou Hm. - Şandra h. - Biled Hm. - Pescăreţu Mic h. - Dudeştii Noi Hm. - Ronaţ Triaj Gr. D - Timişoara Nord,2
-154,227098,R: Bistriţa Nord - Sărmaşel hcv.,R: Bistriţa Nord - Bistriţa Fabrici h. - Sărata h. - Sărăţel - Arcalia hc. - Măgheruş Şieu Hm. - Chintelnic h. - Chiraleş h. - Ţigău h. - Lechinţa - Vermeş h. - Sângiorgiu Nou h. - Brăteni h. - Sânmihaiu de Câmpie h. - Miceştii de Câmpie h. - Budeşti Cluj h. - Ţagu h. - Ţagu Sat h. - Ţăgşor h. - Sărmaşel hcv.,2
-155,227098,R-E: Mărăşeşti - Iaşi,R-E: Mărăşeşti - Tecuci Nord h.(605) - Berheci Hm. - Bârlad - Zorleni Hm. - Banca h. - Crasna - Vaslui - Bălteni Hm. - Buhăieşti - Rebricea Hm. - Scânteia Hm. - Grajduri - Bârnova Hm. - Ciurea Hm. - Nicolina - Iaşi,2
-156,227098,R: Iaşi - Roman,R: Iaşi - Nicolina - Ciurea Hm. - Picioru Lupului h. - Bârnova Hm. - Grajduri - Scânteia Hm. - Rebricea Hm. - Rateşu Cuzei h. - Buhăieşti - Negreşti Vaslui Hm. - Rafaila h. - Dumeşti h. - Mareşal C-tin Prezan Hm. - Suhuleţ h. - Băluşeşti h. - Dagâţa - Zece Prăjini h. - Piscu Rusului h. - Stăniţa h. - Vulpăşeşti h. - Sagna h. - Roman,2
-157,227098,R: Sfântu Gheorghe - Breţcu Hm.,R: Sfântu Gheorghe - Angheluş h. - Moacşa hcv. - Biţa h. - Boroşneu Mare h. - Ţufalău h. - Brateş h. - Covasna Hm. - Zăbala h. - Imeci Hm. - Cătălina h. - Târgu Secuiesc - Sânzieni h. - Poieniţa h. - Bălani h. - Mereni Lutoasa h. - Lemnia h. - Breţcu Hm.,2
-158,227098,R: Reşiţa Nord - Timişoara Nord,R: Reşiţa Nord - Câlnic h. - Moniom h. - Colţan h. - Bocşa Montană h. - Vasiova - Bocşa Română hc. - Berzovia Hm. - Gherteniş h. - Măureni h. - Gataia Hm. - Voiteni - Jebel Hm. - Timişoara Sud - Timişoara Nord,2
-159,227098,R: Reşiţa Nord - Timişoara Nord,R: Reşiţa Nord - Câlnic h. - Moniom h. - Colţan h. - Bocşa Montană h. - Vasiova - Bocşa Română hc. - Berzovia Hm. - Gherteniş h. - Măureni h. - Gataia Hm. - Birda hcv. - Voiteni - Jebel Hm. - Pădureni Timiş P.M. - Timişeni Hm. - Timişoara C.E.T. - Timişoara Sud - Timişoara Nord,2
-160,227098,R: Timişoara Nord - Reşiţa Nord,R: Timişoara Nord - Timişoara Sud - Timişoara C.E.T. - Timişeni Hm. - Pădureni Timiş P.M. - Jebel Hm. - Voiteni - Birda hcv. - Gataia Hm. - Măureni h. - Gherteniş h. - Berzovia Hm. - Bocşa Română hc. - Vasiova - Bocşa Montană h. - Colţan h. - Moniom h. - Câlnic h. - Reşiţa Nord,2
-161,227098,R: Dagâţa - Roman,R: Dagâţa - Zece Prăjini h. - Piscu Rusului h. - Stăniţa h. - Vulpăşeşti h. - Sagna h. - Roman,2
-162,227098,R: Iaşi - Truşeşti Hm.,R: Iaşi - Leţcani - Movileni h. - Potângeni h. - Biserica Larga Jijia h. - Larga Jijia Hm. - Vlădeni - Iacobenii Vechi h. - Şoldana h. - Andrieşeni h. - Rediu h. - Răuşeni h. - Todireni Hm. - Jijia h. - Zlătunoaia h. - Truşeşti Hm.,2
-163,227098,IR: Mangalia - Braşov,IR: Mangalia - Neptun Hm. - Neptun hc. - Costineşti Tabără hc. - Costineşti - Eforie Sud - Eforie Nord - Constanţa - Medgidia - Feteşti - Bucureşti Băneasa - Ploieşti Vest - Câmpina - Sinaia - Buşteni - Azuga - Predeal - Braşov,2
-164,227098,R: Bistriţa Nord - Luduş,R: Bistriţa Nord - Bistriţa Fabrici h. - Sărata h. - Sărăţel - Arcalia hc. - Măgheruş Şieu Hm. - Chintelnic h. - Chiraleş h. - Ţigău h. - Lechinţa - Vermeş h. - Sângiorgiu Nou h. - Brăteni h. - Sânmihaiu de Câmpie h. - Miceştii de Câmpie h. - Budeşti Cluj h. - Ţagu h. - Ţagu Sat h. - Ţăgşor h. - Sărmaşel hcv. - Sărmăşel Gaz Metan h. - Sărmaşu h. - Balda h. - Miheşu de Câmpie Sat h. - Miheşu de Câmpie h. - Bota Sat h. - Zau de Câmpie h. - Melini Valea Largă h. - Tăureni h. - Sânger Tăureni h. - Luduş Sat h. - Luduş,2
-165,227098,R-E: Ploieşti Vest - Mărăşeşti,R-E: Ploieşti Vest - Ploieşti Sud - Mizil - Buzău - Râmnicu Sărat - Sihlea Hm. - Gugeşti - Focşani - Mărăşeşti,2
-166,227098,R: Miceştii de Câmpie h. - Bistriţa Nord,R: Miceştii de Câmpie h. - Sânmihaiu de Câmpie h. - Brăteni h. - Sângiorgiu Nou h. - Vermeş h. - Lechinţa - Ţigău h. - Chiraleş h. - Chintelnic h. - Măgheruş Şieu Hm. - Arcalia hc. - Sărăţel - Sărata h. - Bistriţa Fabrici h. - Bistriţa Nord,2
-167,227098,R: Bălăuşeri hcv. - Târnăveni,R: Bălăuşeri hcv. - Coroiu h. - Şoimuş h. - Laslău h. - Bahnea h. - Bernadea h. - Mica h. - Deaj h. - Găneşti h. - Şeuca h. - Târnăveni,2
-168,227098,R: Întorsura Buzăului Hm - Braşov,R: Întorsura Buzăului Hm - Poiana Florilor h. - Valea Teliului h. - Teliu h. - Budila h. - Hărman - Braşov Triaj - Braşov,2
-169,227098,R: Drăgăneşti Prahova Hm. - Urziceni,R: Drăgăneşti Prahova Hm. - Hătcărău h. - Ciorani Hm. - Fulga h. - Ialomiţa Hm. - Armăşeşti Hm. - Bărbuleşti h. - Urziceni,2
-170,227098,R: Cruceni hcv. - Timişoara Nord,R: Cruceni hcv. - Rudna h. - Giulvăz h. - Peciu Nou h. - Parţa h. - Sânmihai h. - Utvin h. - Timişoara Vest Hm. - Timişoara Nord,2
-171,227098,IR: Mangalia - Braşov,IR: Mangalia - Neptun hc. - Costineşti Tabără hc. - Costineşti - Eforie Sud - Eforie Nord - Constanţa - Medgidia - Feteşti - Bucureşti Băneasa - Ploieşti Vest - Câmpina - Sinaia - Buşteni - Azuga - Predeal - Braşov,2
-172,227098,R-E: Constanţa - Bucureşti Nord Gr.A,R-E: Constanţa - Medgidia - Cernavodă Pod - Feteşti - Ştefan cel Mare h. - Ciulniţa - Lehliu - Săruleşti - Bucureşti Băneasa - Bucureşti Nord Gr.A,2
-173,227098,R: Bistriţa Nord - Miceştii de Câmpie h.,R: Bistriţa Nord - Bistriţa Fabrici h. - Sărata h. - Sărăţel - Arcalia hc. - Măgheruş Şieu Hm. - Chintelnic h. - Chiraleş h. - Ţigău h. - Lechinţa - Vermeş h. - Sângiorgiu Nou h. - Brăteni h. - Sânmihaiu de Câmpie h. - Miceştii de Câmpie h.,2
-174,227098,R: Sânnicolau Mare Hm. - Timişoara Nord,R: Sânnicolau Mare Hm. - Tomnaticu h. - Lovrin - Satu Nou Hm. - Şandra h. - Biled Hm. - Pescăreţu Mic h. - Dudeştii Noi Hm. - Ronaţ Triaj Gr. D - Ronaţ Triaj h.. - Timişoara Nord,2
-175,227098,R-E: Iaşi - Mărăşeşti,R-E: Iaşi - Nicolina - Ciurea Hm. - Bârnova Hm. - Grajduri - Scânteia Hm. - Rebricea Hm. - Buhăieşti - Bălteni Hm. - Vaslui - Crasna - Banca h. - Zorleni Hm. - Bârlad - Tecuci Nord h.(600) - Tecuci - Mărăşeşti,2
-176,227098,R: Buhăieşti - Dagâţa,R: Buhăieşti - Negreşti Vaslui Hm. - Rafaila h. - Dumeşti h. - Mareşal C-tin Prezan Hm. - Suhuleţ h. - Băluşeşti h. - Dagâţa,2
-177,227098,R: Reşiţa Nord - Timişoara Nord,R: Reşiţa Nord - Moniom h. - Colţan h. - Bocşa Montană h. - Vasiova - Bocşa Română hc. - Berzovia Hm. - Gherteniş h. - Măureni h. - Gataia Hm. - Birda hcv. - Voiteni - Jebel Hm. - Pădureni Timiş P.M. - Timişeni Hm. - Timişoara C.E.T. - Timişoara Sud - Timişoara Nord,2
-178,227098,R-E: Bucureşti Nord Gr.A - Constanţa,R-E: Bucureşti Nord Gr.A - Bucureşti Băneasa - Săruleşti - Lehliu - Ciulniţa - Ştefan cel Mare h. - Feteşti - Cernavodă Pod - Medgidia - Constanţa,2
-179,236025,R-E: Bucureşti Nord Gr.A - Braşov,R-E: Bucureşti Nord Gr.A - Buftea - Periş - Ploieşti Vest - Câmpina - Breaza hc. - Sinaia - Buşteni - Azuga - Predeal - Braşov,2
-180,236025,R-E: Craiova - Bucureşti Nord Gr.A,R-E: Craiova - Caracal - Drăgăneşti Olt - Roşiori Nord - Gălăteni Hm. - Videle - Vadu Lat Hm. - Grădinari - Domneştii de Sus h. - Bucureştii Noi - Bucureşti Nord Gr.A,2
-181,236025,R-E: Braşov - Bucureşti Nord Gr.A,R-E: Braşov - Predeal - Azuga - Buşteni - Sinaia - Breaza hc. - Câmpina - Ploieşti Vest - Periş - Buftea - Bucureşti Nord Gr.A,2
-182,236025,R-E: Bucureşti Nord Gr.A - Craiova,R-E: Bucureşti Nord Gr.A - Domneştii de Sus h. - Vadu Lat Hm. - Videle - Gălăteni Hm. - Roşiori Nord - Drăgăneşti Olt - Caracal - Craiova,2
-183,236025,IR: Constanţa - Bucureşti Nord Gr.A,IR: Constanţa - Medgidia - Feteşti - Bucureşti Nord Gr.A,2
-184,236025,R-E: Bucureşti Nord Gr.A - Craiova,R-E: Bucureşti Nord Gr.A - Domneştii de Sus h. - Videle - Gălăteni Hm. - Roşiori Nord - Drăgăneşti Olt - Caracal - Craiova,2
-185,236025,R-E: Craiova - Bucureşti Nord Gr.A,R-E: Craiova - Caracal - Drăgăneşti Olt - Roşiori Nord - Gălăteni Hm. - Videle - Domneştii de Sus h. - Bucureşti Nord Gr.A,2
-186,236025,R-E: Bucureşti Nord Gr.A - Craiova,R-E: Bucureşti Nord Gr.A - Domneştii de Sus h. - Grădinari - Videle - Gălăteni Hm. - Roşiori Nord - Drăgăneşti Olt - Caracal - Craiova,2
-187,236025,IR: Bucureşti Nord Gr.A - Constanţa,IR: Bucureşti Nord Gr.A - Feteşti - Medgidia - Constanţa,2
-188,236025,R-E: Craiova - Bucureşti Nord Gr.A,R-E: Craiova - Caracal - Drăgăneşti Olt - Roşiori Nord - Gălăteni Hm. - Videle - Grădinari - Domneştii de Sus h. - Bucureşti Nord Gr.A,2
-189,228389,R: Măneciu - Ploieşti Sud,R: Măneciu - Gheaba 2 P.O - Măneciu Pamânteni h. - Izvoarele h. - Homorâciu P.M. - Teişani Hm. - P.mac. Văleni Nord - Vălenii de Munte - P.O Gura Vitioarei h. - Făget Teleajen - Măgurele Nord h. - Măgurele Prahova h. - Măgurele Sud h. - Lipăneşti h. - Boldeşti h. - Scăieni h. - Blejoi - Ploieşti Nord - Ploiesti Est Post 1 - Ploieşti Sud,2
-190,228389,R: Bârlad - Chiraftei h.,R: Bârlad - Griviţa h. - Bălăbăneşti h. - Lungeşti h. - Docăneasa h. - Tălăşmani h. - Bereşti Tunel h. - Bereşti Hm. - Balinteşti h. - Roşcani h. - Moscu h. - Târgu Bujor - Umbrăreşti Sat h. - Băleni h. - Fârţăneşti h. - Chiraftei h.,2
-191,228389,R: Cluj Napoca - Oradea,R: Cluj Napoca - Baciu Triaj Hm. - Suceag h. - Mera Hm. - Gârbău h. - Aghireş - Aghireş h. - Stana Hm. - Huedin - Poieni - Valea Drăganului h. - Ciucea Hm. - Negreni h. - Piatra Craiului Hm. - Stâna de Vale h. - Bratca - Bălnaca h. - Şuncuiuş Hm. - Vadu Crişului h. - Vadu Crişului Hm. - Butan h. - Aleşd h. - Aleşd - Ţeţchea h. - Telechiu Hm. - Tileagd - Oşorhei Hm. - Oradea Est - Oradea,2
-192,228389,R: Chiraftei h. - Bârlad,R: Chiraftei h. - Fârţăneşti h. - Băleni h. - Umbrăreşti Sat h. - Târgu Bujor - Moscu h. - Roşcani h. - Balinteşti h. - Bereşti Hm. - Bereşti Tunel h. - Tălăşmani h. - Docăneasa h. - Lungeşti h. - Bălăbăneşti h. - Griviţa h. - Bârlad,2
-193,228389,R: Nehoiaşu Hm. - Buzău,R: Nehoiaşu Hm. - Nehoiu h. - Păltineni h. - Şeţu h. - Valea Sibiciului h. - Pătârlagele Hm. - Mărunţişu hcv. - Valea Seacă h. - Gura Bascii h. - Cislău hcv. - Vipereşti h. - Ruşavăţu h. - Bădila h. - Pârscov Hm. - Măgura hcv. - Unguriu h. - Ojasca h. - Berca - Cândeşti h. - Verneşti h. - Buzău Nord Hm. - Buzău,2
-194,228389,R: Ploieşti Sud - Slănic,R: Ploieşti Sud - Ploieşti Vest - Buda - Găgeni h. - Plopeni - Plopeni Sat Hm. - Găvănel h. - Mălăeşti h. - Coţofeneşti h. - Poiana Slănic h. - Vlădeşti h. - Vărbilău h. - Prăjani h. - Slănic,2
-195,228389,R: Titan Sud Hm. - Olteniţa,R: Titan Sud Hm. - Buc. Sud Gr. Călători - Căldăraru h. - Cernica h. - Tânganu h. - Frunzăneşti h. - Plătăreşti h. - Podu Pitarului h. - Cucuieţi Sudiţi h. - Gălbinaşi h. - Vasilaţi h. - Budeşti Hm. - Negoieşti h. - Şoldanu h. - Luica h. - Curcani h. - Valea Roşie h. - Olteniţa,2
-196,228389,R-E: Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,R-E: Aeroport H. Coanda T1 - Patinoar PO - Mogoşoaia - Parc Mogoşoaia h. - Bucureşti Nord Gr.A,2
-197,228389,R-E: Adjud - Bucureşti Nord Gr.A,R-E: Adjud - Pufeşti Hm. - Mărăşeşti - Focşani - Râmnicu Sărat - Buzău - Mizil - Ploieşti Sud - Crivina - Scroviştea h. - Periş - Buftea - Chitila - Bucureşti Nord Gr.A,2
-198,228389,R-E: Bucureşti Nord Gr.A - Aeroport H. Coanda T1,R-E: Bucureşti Nord Gr.A - Parc Mogoşoaia h. - Aeroport H. Coanda T1,2
-199,228389,R-E: Ploieşti Sud - Bucureşti Nord Gr.A,R-E: Ploieşti Sud - Ploieşti Vest - Brazi - Crivina - Scroviştea h. - Periş - Buftea - Chitila - Bucureşti Nord Gr.A,2
-200,228389,R: Olteniţa - Titan Sud Hm.,R: Olteniţa - Valea Roşie h. - Curcani h. - Luica h. - Şoldanu h. - Negoieşti h. - Budeşti Hm. - Vasilaţi h. - Gălbinaşi h. - Cucuieţi Sudiţi h. - Podu Pitarului h. - Plătăreşti h. - Frunzăneşti h. - Tânganu h. - Cernica h. - Căldăraru h. - Buc. Sud Gr. Călători - Titan Sud Hm.,2
-201,228389,R-E: Bucureşti Nord Gr.A - Aeroport H. Coanda T1,R-E: Bucureşti Nord Gr.A - Parc Mogoşoaia h. - Patinoar PO - Aeroport H. Coanda T1,2
-202,228389,IR: Bucureşti Nord Gr.A - Braşov,IR: Bucureşti Nord Gr.A - Ploieşti Vest - Câmpina - Comarnic - Sinaia - Buşteni - Azuga - Predeal - Braşov,2
-203,228389,R: Slănic - Ploieşti Sud,R: Slănic - Prăjani h. - Vărbilău h. - Vlădeşti h. - Poiana Slănic h. - Coţofeneşti h. - Mălăeşti h. - Găvănel h. - Plopeni Sat Hm. - Plopeni - Găgeni h. - Buda - Ploieşti Vest - Ploieşti Sud,2
-204,228389,R: Cluj Napoca - Bonţida Hm.,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Dezmir h. - Apahida - Apahida h. - Jucu Hm. - Răscruci h. - Bonţida Hm.,2
-205,228389,R: Pietroşiţa Hm. - Târgovişte,R: Pietroşiţa Hm. - Ţepeş Vodă h. - Fieni - Moţăieni h. - Pucioasa Hm. - Trainica h. - Scârlenţa h. - Vulcana Pandele P.M.Aj. - Doiceşti h. - Doiceşti - Aninoasa Hm. - TEIŞ Hm. - Romlux h. - Târgovişte,2
-206,228389,R: Bonţida Hm. - Cluj Napoca,R: Bonţida Hm. - Răscruci h. - Jucu Hm. - Apahida h. - Apahida - Dezmir h. - Cluj Napoca Est - Clujana h. - Cluj Napoca,2
-207,228389,R: Bârlad - Târgu Bujor,R: Bârlad - Griviţa h. - Bălăbăneşti h. - Lungeşti h. - Docăneasa h. - Tălăşmani h. - Bereşti Tunel h. - Bereşti Hm. - Balinteşti h. - Roşcani h. - Moscu h. - Târgu Bujor,2
-208,228389,R: Târgovişte - Pietroşiţa Hm.,R: Târgovişte - Romlux h. - TEIŞ Hm. - Aninoasa Hm. - Doiceşti - Doiceşti h. - Vulcana Pandele P.M.Aj. - Scârlenţa h. - Trainica h. - Pucioasa Hm. - Moţăieni h. - Fieni - Ţepeş Vodă h. - Pietroşiţa Hm.,2
-209,228389,R: Ploieşti Sud - Măneciu,R: Ploieşti Sud - Ploiesti Est Post 1 - Ploieşti Nord - Blejoi - Scăieni h. - Boldeşti h. - Lipăneşti h. - Măgurele Sud h. - Măgurele Prahova h. - Măgurele Nord h. - Făget Teleajen - P.O Gura Vitioarei h. - Vălenii de Munte - P.mac. Văleni Nord - Teişani Hm. - Homorâciu P.M. - Izvoarele h. - Măneciu Pamânteni h. - Gheaba 2 P.O - Măneciu,2
-210,228389,R: Cluj Napoca - Aghireş,R: Cluj Napoca - Baciu Triaj Hm. - Suceag h. - Rădaia h. - Mera Hm. - Gârbău h. - Dorolţu h. - Aghireş,2
-211,228389,R: Buzău - Nehoiaşu Hm.,R: Buzău - Buzău Nord Hm. - Verneşti h. - Cândeşti h. - Berca - Ojasca h. - Unguriu h. - Măgura hcv. - Pârscov Hm. - Bădila h. - Ruşavăţu h. - Vipereşti h. - Cislău hcv. - Gura Bascii h. - Valea Seacă h. - Mărunţişu hcv. - Pătârlagele Hm. - Valea Sibiciului h. - Şeţu h. - Păltineni h. - Nehoiu h. - Nehoiaşu Hm.,2
-212,228389,IR: Constanţa - Bucureşti Nord Gr.A,IR: Constanţa - Feteşti - Ciulniţa - Bucureşti Nord Gr.A,2
-213,228389,IR: Braşov - Cluj Napoca,IR: Braşov - Apaţa - Caţa Hm. - Sighişoara - Mediaş - Copşa Mică - Blaj - Teiuş - Aiud Hm. - Războieni - Câmpia Turzii - Cluj Napoca,2
-214,228389,IR: Mangalia - Buzău,IR: Mangalia - Neptun hc. - Costineşti Tabără hc. - Costineşti - Tuzla h. - Eforie Sud - Eforie Nord - Constanţa - Medgidia - Feteşti - Ţăndărei - Făurei - Buzău,2
-215,228389,R-E: Bucureşti Nord Gr.A - Ploieşti Sud,R-E: Bucureşti Nord Gr.A - Chitila - Buftea - Periş - Scroviştea h. - Crivina - Brazi - Ploieşti Sud,2
-216,228389,R: Chiraftei h. - Târgu Bujor,R: Chiraftei h. - Fârţăneşti h. - Băleni h. - Umbrăreşti Sat h. - Târgu Bujor,2
-217,228389,R-E: Bucureşti Nord Gr.A - Buzău,R-E: Bucureşti Nord Gr.A - Chitila - Buftea - Periş - Scroviştea h. - Crivina - Brazi - Ploieşti Sud - Tomşani hc. - Mizil - Săhăteni Hm. - Buzău,2
-218,228389,R: Târgu Bujor - Bârlad,R: Târgu Bujor - Moscu h. - Roşcani h. - Balinteşti h. - Bereşti Hm. - Bereşti Tunel h. - Tălăşmani h. - Docăneasa h. - Lungeşti h. - Bălăbăneşti h. - Griviţa h. - Bârlad,2
-219,228389,R: Bucureşti Nord Gr.A - Târgovişte,R: Bucureşti Nord Gr.A - Chitila - Ghergani Hm. - Conţeşti h. - Boteni h. - Titu - Dâmbovicioara h. - Podu Rizii h. - Băneşti h. - Movila Dâmboviţa h. - Nucet - Cazaci h. - Văcăreşti h. - Târgovişte,2
-220,228389,R: Târgu Bujor - Chiraftei h.,R: Târgu Bujor - Umbrăreşti Sat h. - Băleni h. - Fârţăneşti h. - Chiraftei h.,2
-221,228389,R: Pietroşiţa Hm. - Bucureşti Nord Gr.A,R: Pietroşiţa Hm. - Ţepeş Vodă h. - Fieni - Moţăieni h. - Pucioasa Hm. - Trainica h. - Scârlenţa h. - Vulcana Pandele P.M.Aj. - Doiceşti h. - Doiceşti - Aninoasa Hm. - TEIŞ Hm. - Romlux h. - Târgovişte - Văcăreşti h. - Cazaci h. - Nucet - Movila Dâmboviţa h. - Băneşti h. - Podu Rizii h. - Dâmbovicioara h. - Titu - Boteni h. - Conţeşti h. - Ghergani Hm. - Chitila - Bucureşti Nord Gr.A,2
-222,228389,R-E: Bucureşti Nord Gr.A - Aeroport H. Coanda T1,R-E: Bucureşti Nord Gr.A - Aeroport H. Coanda T1,2
-223,228389,R-E: Bucureşti Nord Gr.A - Ploieşti Sud,R-E: Bucureşti Nord Gr.A - Chitila - Buftea - Periş - Scroviştea h. - Crivina - Brazi - Ploieşti Vest - Ploieşti Sud,2
-224,228389,R: Chiraftei h. - Bereşti Hm.,R: Chiraftei h. - Fârţăneşti h. - Băleni h. - Umbrăreşti Sat h. - Târgu Bujor - Moscu h. - Roşcani h. - Balinteşti h. - Bereşti Hm.,2
-225,228389,R: Cluj Napoca - Bonţida Hm.,R: Cluj Napoca - Clujana h. - Cluj Napoca Est - Dezmir h. - Apahida - Apahida h. - Jucu Hm. - Jucu de Jos h. - Răscruci h. - Bonţida Hm.,2
-226,228389,R: Oradea - Cluj Napoca,R: Oradea - Oradea Est - Oşorhei Hm. - Tileagd - Telechiu Hm. - Ţeţchea h. - Aleşd - Aleşd h. - Butan h. - Vadu Crişului Hm. - Vadu Crişului h. - Şuncuiuş Hm. - Bălnaca h. - Bratca - Stâna de Vale h. - Piatra Craiului Hm. - Negreni h. - Ciucea Hm. - Valea Drăganului h. - Poieni - Huedin - Stana Hm. - Aghireş h. - Aghireş - Gârbău h. - Mera Hm. - Suceag h. - Baciu Triaj Hm. - Cluj Napoca,2
-227,228389,IR: Braşov - Bucureşti Nord Gr.A,IR: Braşov - Predeal - Azuga - Buşteni - Sinaia - Comarnic - Câmpina - Ploieşti Vest - Bucureşti Nord Gr.A,2
-228,228389,R-E: Bucureşti Nord Gr.A - Roşiori Nord,R-E: Bucureşti Nord Gr.A - Chiajna - Domneştii de Sus h. - Grădinari - Vadu Lat Hm. - Zăvestreni Hm. - Videle - Gălăteni Hm. - Olteni - Vârtoapele hc. - Rădoieşti Hm. - Atârnaţi Hm. - Roşiori Nord,2
-229,228389,R-E: Bucureşti Nord Gr.A - Adjud,R-E: Bucureşti Nord Gr.A - Chitila - Buftea - Periş - Scroviştea h. - Crivina - Ploieşti Sud - Mizil - Buzău - Râmnicu Sărat - Focşani - Mărăşeşti - Pufeşti Hm. - Adjud,2
-230,228389,IR: Galaţi - Bucureşti Nord Gr.A,IR: Galaţi - Barboşi - Vădeni Hm. - Brăila - Ianca hc. - Făurei - Buzău - Mizil - Ploieşti Sud - Bucureşti Nord Gr.A,2
-231,228389,R-E: Feteşti - Bucureşti Nord Gr.A,R-E: Feteşti - Ştefan cel Mare h. - Recolta h. - Ogoarele h - Ciulniţa - Dragoş Vodă Hm. - Bogdana h. - Dâlga h. - Dor Mărunt Hm. - Dor Mărunt Sat h. - Lehliu - Preasna h. - Săruleşti - Mostiştea h. - Fundulea Hm. - Islaz h. - Brăneşti Hm. - Brăneşti Sat h. - Pasărea - Pantelimon - Bucureşti Băneasa - Bucureşti Nord Gr.A,2
-232,228389,R: Aghireş - Cluj Napoca,R: Aghireş - Dorolţu h. - Gârbău h. - Mera Hm. - Rădaia h. - Suceag h. - Baciu Triaj Hm. - Cluj Napoca,2
-233,228389,R-E: Roşiori Nord - Bucureşti Nord Gr.A,R-E: Roşiori Nord - Rădoieşti Hm. - Vârtoapele hc. - Olteni - Gălăteni Hm. - Videle - Vadu Lat Hm. - Grădinari - Domneştii de Sus h. - Chiajna - Bucureşti Nord Gr.A,2
-234,228389,R: Bereşti Hm. - Chiraftei h.,R: Bereşti Hm. - Balinteşti h. - Roşcani h. - Moscu h. - Târgu Bujor - Umbrăreşti Sat h. - Băleni h. - Fârţăneşti h. - Chiraftei h.,2
-235,228389,R-E: Buzău - Bucureşti Nord Gr.A,R-E: Buzău - Săhăteni Hm. - Mizil - Tomşani hc. - Ploieşti Sud - Brazi - Crivina - Scroviştea h. - Periş - Buftea - Chitila - Bucureşti Nord Gr.A,2
-236,228389,R-E: Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,R-E: Aeroport H. Coanda T1 - Mogoşoaia - Parc Mogoşoaia h. - Bucureşti Nord Gr.A,2
-237,228389,R-E: Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,R-E: Aeroport H. Coanda T1 - Mogoşoaia - Bucureşti Nord Gr.A,2
-238,228389,IR: Bucureşti Nord Gr.A - Mangalia,IR: Bucureşti Nord Gr.A - Ciulniţa - Feteşti - Constanţa - Agigea Ecluză Hm. - Eforie Nord - Eforie Sud - Tuzla h. - Costineşti - Costineşti Tabără hc. - Neptun hc. - Mangalia,2
-239,228389,R-E: Bucureşti Nord Gr.A - Buzău,R-E: Bucureşti Nord Gr.A - Chitila - Buftea - Periş - Scroviştea h. - Brazi - Ploieşti Sud - Tomşani hc. - Mizil - Săhăteni Hm. - Buzău,2
-240,228389,R: Târgovişte - Ploieşti Sud,R: Târgovişte - Romlux h. - TEIŞ Hm. - Târgovişte Nord - Valea Voievozilor h. - Răzvad h. - Săcuieni h. - Adânca PM. - Bucşani h. - Mija - I. L. Caragiale Vest h. - I. L. Caragiale - P. mac. Zalhanaua - Brătăşanca h. - Târgşoru Nou Hm. - Crângu Lui Tei h. - Crângu Lui Bot Hm. - Ploieşti Vest - Ploieşti Sud,2
-241,228389,IR: Bucureşti Nord Gr.A - Constanţa,IR: Bucureşti Nord Gr.A - Ciulniţa - Feteşti - Constanţa,2
-242,228389,R: Târgu Bujor - Bârlad,R: Târgu Bujor - Bereşti Hm. - Bârlad,2
-243,228389,IR: Buzău - Mangalia,IR: Buzău - Cilibia Hm. - Făurei - Ţăndărei - Feteşti - Medgidia - Constanţa - Eforie Nord - Eforie Sud - Tuzla h. - Costineşti - Costineşti Tabără hc. - Neptun hc. - Mangalia,2
-244,228389,IR: Cluj Napoca - Braşov,IR: Cluj Napoca - Câmpia Turzii - Călăraşi Turda Hm. - Războieni - Aiud Hm. - Teiuş - Blaj - Copşa Mică - Mediaş - Sighişoara - Braşov,2
-245,228389,IR: Bucureşti Nord Gr.A - Galaţi,IR: Bucureşti Nord Gr.A - Ploieşti Sud - Mizil - Buzău - Cilibia Hm. - Făurei - Ianca hc. - Brăila - Barboşi - Galaţi,2
-246,228389,R-E: Ploieşti Sud - Bucureşti Nord Gr.A,R-E: Ploieşti Sud - Brazi - Crivina - Scroviştea h. - Periş - Buftea - Chitila - Bucureşti Nord Gr.A,2
-247,228389,IR: Mangalia - Bucureşti Nord Gr.A,IR: Mangalia - Neptun hc. - Costineşti Tabără hc. - Costineşti - Tuzla h. - Eforie Sud - Eforie Nord - Constanţa - Feteşti - Ciulniţa - Bucureşti Nord Gr.A,2
-248,228389,IR: Bucureşti Nord Gr.A - Galaţi,IR: Bucureşti Nord Gr.A - Ploieşti Sud - Mizil - Buzău - Făurei - Ianca hc. - Brăila - Vădeni Hm. - Barboşi - Galaţi,2
-249,228389,R-E: Bucureşti Nord Gr.A - Feteşti,R-E: Bucureşti Nord Gr.A - Bucureşti Băneasa - Pantelimon - Pasărea - Brăneşti Sat h. - Brăneşti Hm. - Islaz h. - Fundulea Hm. - Mostiştea h. - Săruleşti - Preasna h. - Lehliu - Dor Mărunt Sat h. - Dor Mărunt Hm. - Dâlga h. - Bogdana h. - Dragoş Vodă Hm. - Ciulniţa - Ogoarele h - Recolta h. - Ştefan cel Mare h. - Feteşti,2
-250,228389,R: Târgovişte - Bucureşti Nord Gr.A,R: Târgovişte - Văcăreşti h. - Cazaci h. - Nucet - Movila Dâmboviţa h. - Băneşti h. - Podu Rizii h. - Dâmbovicioara h. - Titu - Boteni h. - Conţeşti h. - Ghergani Hm. - Chitila - Bucureşti Nord Gr.A,2
-251,228389,R-E: Bucureşti Nord Gr.A - Roşiori Nord,R-E: Bucureşti Nord Gr.A - Chiajna - Domneştii de Sus h. - Grădinari - Vadu Lat Hm. - Videle - Gălăteni Hm. - Olteni - Vârtoapele hc. - Rădoieşti Hm. - Roşiori Nord,2
-252,228389,R: Ploieşti Sud - Târgovişte,R: Ploieşti Sud - Ploieşti Vest - Crângu Lui Bot Hm. - Crângu Lui Tei h. - Târgşoru Nou Hm. - Brătăşanca h. - P. mac. Zalhanaua - I. L. Caragiale - I. L. Caragiale Vest h. - Mija - Bucşani h. - Adânca PM. - Săcuieni h. - Răzvad h. - Valea Voievozilor h. - Târgovişte Nord - TEIŞ Hm. - Romlux h. - Târgovişte,2
-253,228389,R: Bereşti Hm. - Târgu Bujor,R: Bereşti Hm. - Balinteşti h. - Roşcani h. - Moscu h. - Târgu Bujor,2
-254,228389,R-E: Buzău - Bucureşti Nord Gr.A,R-E: Buzău - Săhăteni Hm. - Mizil - Tomşani hc. - Ploieşti Sud - Ploieşti Vest - Brazi - Crivina - Scroviştea h. - Periş - Buftea - Chitila - Bucureşti Nord Gr.A,2
-255,228389,R: Bucureşti Nord Gr.A - Pietroşiţa Hm.,R: Bucureşti Nord Gr.A - Chitila - Ghergani Hm. - Conţeşti h. - Boteni h. - Titu - Dâmbovicioara h. - Podu Rizii h. - Băneşti h. - Movila Dâmboviţa h. - Nucet - Cazaci h. - Văcăreşti h. - Târgovişte - Romlux h. - TEIŞ Hm. - Aninoasa Hm. - Doiceşti - Doiceşti h. - Vulcana Pandele P.M.Aj. - Scârlenţa h. - Trainica h. - Pucioasa Hm. - Moţăieni h. - Fieni - Ţepeş Vodă h. - Pietroşiţa Hm.,2
+1,200000,,Mangalia - Bucureşti Nord Gr.A,103
+2,200000,,Arad - Constanţa,105
+3,200000,,Bucureşti Nord Gr.A - Titu,103
+4,200000,,Bucureşti Nord Gr.A - Braşov,103
+5,200000,,Bucureşti Nord Gr.A - Mangalia,103
+6,200000,,Braşov - Bucureşti Nord Gr.A,103
+7,200000,,Constanţa - Arad,105
+8,200000,,Bucureşti Nord Gr.A - Arad,105
+9,200000,,Titu - Bucureşti Nord Gr.A,103
+10,200000,,Arad - Bucureşti Nord Gr.A,105
+11,200000,,Mangalia - Bucureşti Nord Gr.A,103
+12,236037,,Huedin - Cluj Napoca,106
+13,236037,,Bistriţa Bârgăului hcv. - Bistriţa Nord,106
+14,236037,,Timişoara Nord - Oradea,106
+15,236037,,Cluj Napoca - Bistriţa Nord,106
+16,236037,,Mediaş - Sibiu,106
+17,236037,,Cluj Napoca - Câmpia Turzii,106
+18,236037,,Cluj Napoca - Huedin,106
+19,236037,,Letca Hm. - Jibou,106
+20,236037,,Oradea - Aleşd,106
+21,236037,,Cluj Napoca - Sibiu,106
+22,236037,,Oradea - Valea lui Mihai,106
+23,236037,,Deda - Târgu Mureş,106
+24,236037,,Târgu Mureş - Câmpia Turzii,106
+25,236037,,Câmpia Turzii - Târgu Mureş,106
+26,236037,,Halmeu - Satu Mare,106
+27,236037,,Bratca - Oradea,106
+28,236037,,Bistriţa Nord - Bistriţa Bârgăului hcv.,106
+29,236037,,Bistriţa Nord - Cluj Napoca,106
+30,236037,,Baia Mare - Jibou,106
+31,236037,,Sibiu - Cluj Napoca,106
+32,236037,,Sibiu - Mediaş,106
+33,236037,,Târgu Mureş - Deda,106
+34,236037,,Arad - Caransebeş,106
+35,236037,,Sibiu - Cluj Napoca,106
+36,236037,,Jibou - Baia Mare,106
+37,236037,,Oradea - Satu Mare,106
+38,236037,,Cluj Napoca - Bistriţa Nord,106
+39,236037,,Satu Mare - Halmeu,106
+40,236037,,Bistriţa Nord - Cluj Napoca,106
+41,236037,,Oradea - Cluj Napoca,106
+42,236037,,Bistriţa Nord - Bistriţa Bârgăului hcv.,106
+43,236037,,Bistriţa Nord - Cluj Napoca,106
+44,236037,,Satu Mare - Oradea,106
+45,236037,,Topliţa - Târgu Mureş,106
+46,236037,,Satu Mare - Baia Mare,106
+47,236037,,Cluj Napoca - Târgu Mureş,106
+48,236037,,Aleşd - Oradea,106
+49,236037,,Oradea - Bratca,106
+50,236037,,Târgu Mureş - Cluj Napoca,106
+51,236037,,Cluj Napoca - Dej Calatori,106
+52,236037,,Cluj Napoca - Bistriţa Nord,106
+53,236037,,Oradea - Aleşd,106
+54,236037,,Cluj Napoca - Sibiu,106
+55,236037,,Cluj Napoca - Stana Hm.,106
+56,236037,,Câmpia Turzii - Cluj Napoca,106
+57,236037,,Valea lui Mihai - Oradea,106
+58,236037,,Cluj Napoca - Oradea,106
+59,236037,,Jibou - Letca Hm.,106
+60,236037,,Lunca Ilvei - Bistriţa Nord,106
+61,236037,,Cluj Napoca - Bistriţa Nord,106
+62,236037,,Dej Calatori - Cluj Napoca,106
+63,236037,,Lunca Ilvei - Beclean pe Someş,106
+64,236037,,Stana Hm. - Cluj Napoca,106
+65,236037,,Timişoara Nord - Oradea,106
+66,236037,,Oradea - Satu Mare,106
+67,236037,,Baia Mare - Satu Mare,106
+68,236037,,Caransebeş - Arad,106
+69,236037,,Beclean pe Someş - Bistriţa Nord,106
+70,236037,,Oradea - Timişoara Nord,106
+71,236037,,Cluj Napoca - Oradea,106
+72,236037,,Oradea - Bratca,106
+73,236037,,Târgu Mureş - Topliţa,106
+74,236037,,Oradea - Cluj Napoca,106
+75,236037,,Dej Calatori - Cluj Napoca,106
+76,236037,,Târgu Mureş - Topliţa,106
+77,236037,,Caransebeş - Arad,106
+78,236037,,Cluj Napoca - Bistriţa Nord,106
+79,236037,,Timişoara Nord - Oradea,106
+80,236037,,Beclean pe Someş - Lunca Ilvei,106
+81,236037,,Arad - Caransebeş,106
+82,236037,,Baia Mare - Jibou,106
+83,236037,,Bistriţa Nord - Lunca Ilvei,106
+84,236037,,Bistriţa Nord - Cluj Napoca,106
+85,227098,,Braşov - Breţcu Hm.,106
+86,227098,,Buhăieşti - Roman,106
+87,227098,,Roman - Buhăieşti,106
+88,227098,,Bucureşti Nord Gr.A - Braşov,106
+89,227098,,Zărneşti - Braşov,106
+90,227098,,Blaj - Târnăveni,106
+91,227098,,Dorohoi - Iaşi,106
+92,227098,,Arad - Nădlac,106
+93,227098,,Iaşi - Hârlău,106
+94,227098,,Nădlac - Arad,106
+95,227098,,Suceava Nord - Iaşi,106
+96,227098,,Timişoara Nord - Reşiţa Nord,106
+97,227098,,Braşov - Zărneşti,106
+98,227098,,Iaşi - Dorohoi,106
+99,227098,,Alba Iulia - Zlatna hcv.,106
+100,227098,,Timişoara Nord - Jimbolia,106
+101,227098,,Timişoara Nord - Reşiţa Nord,106
+102,227098,,Ploieşti Sud - Urziceni,106
+103,227098,,Roman - Dagâţa,106
+104,227098,,Cenad h. - Sânnicolau Mare Hm.,106
+105,227098,,Blaj - Bălăuşeri hcv.,106
+106,227098,,Urziceni - Ploieşti Sud,106
+107,227098,,Braşov - Întorsura Buzăului Hm,106
+108,227098,,Mărăşeşti - Iaşi,106
+109,227098,,Întorsura Buzăului Hm - Braşov,106
+110,227098,,Cruceni hcv. - Timişoara Nord,106
+111,227098,,Zlatna hcv. - Alba Iulia,106
+112,227098,,Jimbolia - Timişoara Nord,106
+113,227098,,Dagâţa - Buhăieşti,106
+114,227098,,Hârlău - Iaşi,106
+115,227098,,Timişoara Nord - Reşiţa Nord,106
+116,227098,,Sărmaşu h. - Bistriţa Nord,106
+117,227098,,Braşov - Bucureşti Nord Gr.A,106
+118,227098,,Arad - Nădlac,106
+119,227098,,Mărăşeşti - Ploieşti Vest,106
+120,227098,,Truşeşti Hm. - Iaşi,106
+121,227098,,Arad - Sânnicolau Mare Hm.,106
+122,227098,,Sânnicolau Mare Hm. - Arad,106
+123,227098,,Timişoara Nord - Remetea Mică,106
+124,227098,,Sărmaşel hcv. - Luduş,106
+125,227098,,Ploieşti Sud - Drăgăneşti Prahova Hm.,106
+126,227098,,Breţcu Hm. - Sfântu Gheorghe,106
+127,227098,,Luduş - Bistriţa Nord,106
+128,227098,,Iaşi - Suceava Nord,106
+129,227098,,Reşiţa Nord - Timişoara Nord,106
+130,227098,,Remetea Mică - Timişoara Nord,106
+131,227098,,Târnăveni - Blaj,106
+132,227098,,Nădlac - Arad,106
+133,227098,,Roman - Iaşi,106
+134,227098,,Timişoara Nord - Reşiţa Nord,106
+135,227098,,Breţcu Hm. - Braşov,106
+136,227098,,Iaşi - Vaslui,106
+137,227098,,Timişoara Nord - Cruceni hcv.,106
+138,227098,,Sfântu Gheorghe - Braşov,106
+139,227098,,Timişoara Nord - Sânnicolau Mare Hm.,106
+140,227098,,Mărăşeşti - Iaşi,106
+141,227098,,Sânnicolau Mare Hm. - Cenad h.,106
+142,227098,,Sărmaşel hcv. - Bistriţa Nord,106
+143,227098,,Vaslui - Iaşi,106
+144,227098,,Mărăşeşti - Iaşi,106
+145,227098,,Sânnicolau Mare Hm. - Vălcani hcv.,106
+146,227098,,Luduş - Sărmaşel hcv.,106
+147,227098,,Iaşi - Mărăşeşti,106
+148,227098,,Vălcani hcv. - Arad,106
+149,227098,,Braşov - Mangalia,103
+150,227098,,Bălăuşeri hcv. - Blaj,106
+151,227098,,Braşov - Întorsura Buzăului Hm,106
+152,227098,,Timişoara Nord - Sânnicolau Mare Hm.,106
+153,227098,,Sânnicolau Mare Hm. - Timişoara Nord,106
+154,227098,,Bistriţa Nord - Sărmaşel hcv.,106
+155,227098,,Mărăşeşti - Iaşi,106
+156,227098,,Iaşi - Roman,106
+157,227098,,Sfântu Gheorghe - Breţcu Hm.,106
+158,227098,,Reşiţa Nord - Timişoara Nord,106
+159,227098,,Reşiţa Nord - Timişoara Nord,106
+160,227098,,Timişoara Nord - Reşiţa Nord,106
+161,227098,,Dagâţa - Roman,106
+162,227098,,Iaşi - Truşeşti Hm.,106
+163,227098,,Mangalia - Braşov,103
+164,227098,,Bistriţa Nord - Luduş,106
+165,227098,,Ploieşti Vest - Mărăşeşti,106
+166,227098,,Miceştii de Câmpie h. - Bistriţa Nord,106
+167,227098,,Bălăuşeri hcv. - Târnăveni,106
+168,227098,,Întorsura Buzăului Hm - Braşov,106
+169,227098,,Drăgăneşti Prahova Hm. - Urziceni,106
+170,227098,,Cruceni hcv. - Timişoara Nord,106
+171,227098,,Mangalia - Braşov,103
+172,227098,,Constanţa - Bucureşti Nord Gr.A,106
+173,227098,,Bistriţa Nord - Miceştii de Câmpie h.,106
+174,227098,,Sânnicolau Mare Hm. - Timişoara Nord,106
+175,227098,,Iaşi - Mărăşeşti,106
+176,227098,,Buhăieşti - Dagâţa,106
+177,227098,,Reşiţa Nord - Timişoara Nord,106
+178,227098,,Bucureşti Nord Gr.A - Constanţa,106
+179,236025,,Bucureşti Nord Gr.A - Braşov,106
+180,236025,,Craiova - Bucureşti Nord Gr.A,106
+181,236025,,Braşov - Bucureşti Nord Gr.A,106
+182,236025,,Bucureşti Nord Gr.A - Craiova,106
+183,236025,,Constanţa - Bucureşti Nord Gr.A,103
+184,236025,,Bucureşti Nord Gr.A - Craiova,106
+185,236025,,Craiova - Bucureşti Nord Gr.A,106
+186,236025,,Bucureşti Nord Gr.A - Craiova,106
+187,236025,,Bucureşti Nord Gr.A - Constanţa,103
+188,236025,,Craiova - Bucureşti Nord Gr.A,106
+189,228389,,Măneciu - Ploieşti Sud,106
+190,228389,,Bârlad - Chiraftei h.,106
+191,228389,,Cluj Napoca - Oradea,106
+192,228389,,Chiraftei h. - Bârlad,106
+193,228389,,Nehoiaşu Hm. - Buzău,106
+194,228389,,Ploieşti Sud - Slănic,106
+195,228389,,Titan Sud Hm. - Olteniţa,106
+196,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+197,228389,,Adjud - Bucureşti Nord Gr.A,106
+198,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+199,228389,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+200,228389,,Olteniţa - Titan Sud Hm.,106
+201,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+202,228389,,Bucureşti Nord Gr.A - Braşov,103
+203,228389,,Slănic - Ploieşti Sud,106
+204,228389,,Cluj Napoca - Bonţida Hm.,106
+205,228389,,Pietroşiţa Hm. - Târgovişte,106
+206,228389,,Bonţida Hm. - Cluj Napoca,106
+207,228389,,Bârlad - Târgu Bujor,106
+208,228389,,Târgovişte - Pietroşiţa Hm.,106
+209,228389,,Ploieşti Sud - Măneciu,106
+210,228389,,Cluj Napoca - Aghireş,106
+211,228389,,Buzău - Nehoiaşu Hm.,106
+212,228389,,Constanţa - Bucureşti Nord Gr.A,103
+213,228389,,Braşov - Cluj Napoca,103
+214,228389,,Mangalia - Buzău,103
+215,228389,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+216,228389,,Chiraftei h. - Târgu Bujor,106
+217,228389,,Bucureşti Nord Gr.A - Buzău,106
+218,228389,,Târgu Bujor - Bârlad,106
+219,228389,,Bucureşti Nord Gr.A - Târgovişte,106
+220,228389,,Târgu Bujor - Chiraftei h.,106
+221,228389,,Pietroşiţa Hm. - Bucureşti Nord Gr.A,106
+222,228389,,Bucureşti Nord Gr.A - Aeroport H. Coanda T1,106
+223,228389,,Bucureşti Nord Gr.A - Ploieşti Sud,106
+224,228389,,Chiraftei h. - Bereşti Hm.,106
+225,228389,,Cluj Napoca - Bonţida Hm.,106
+226,228389,,Oradea - Cluj Napoca,106
+227,228389,,Braşov - Bucureşti Nord Gr.A,103
+228,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
+229,228389,,Bucureşti Nord Gr.A - Adjud,106
+230,228389,,Galaţi - Bucureşti Nord Gr.A,103
+231,228389,,Feteşti - Bucureşti Nord Gr.A,106
+232,228389,,Aghireş - Cluj Napoca,106
+233,228389,,Roşiori Nord - Bucureşti Nord Gr.A,106
+234,228389,,Bereşti Hm. - Chiraftei h.,106
+235,228389,,Buzău - Bucureşti Nord Gr.A,106
+236,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+237,228389,,Aeroport H. Coanda T1 - Bucureşti Nord Gr.A,106
+238,228389,,Bucureşti Nord Gr.A - Mangalia,103
+239,228389,,Bucureşti Nord Gr.A - Buzău,106
+240,228389,,Târgovişte - Ploieşti Sud,106
+241,228389,,Bucureşti Nord Gr.A - Constanţa,103
+242,228389,,Târgu Bujor - Bârlad,106
+243,228389,,Buzău - Mangalia,103
+244,228389,,Cluj Napoca - Braşov,103
+245,228389,,Bucureşti Nord Gr.A - Galaţi,103
+246,228389,,Ploieşti Sud - Bucureşti Nord Gr.A,106
+247,228389,,Mangalia - Bucureşti Nord Gr.A,103
+248,228389,,Bucureşti Nord Gr.A - Galaţi,103
+249,228389,,Bucureşti Nord Gr.A - Feteşti,106
+250,228389,,Târgovişte - Bucureşti Nord Gr.A,106
+251,228389,,Bucureşti Nord Gr.A - Roşiori Nord,106
+252,228389,,Ploieşti Sud - Târgovişte,106
+253,228389,,Bereşti Hm. - Târgu Bujor,106
+254,228389,,Buzău - Bucureşti Nord Gr.A,106
+255,228389,,Bucureşti Nord Gr.A - Pietroşiţa Hm.,106
