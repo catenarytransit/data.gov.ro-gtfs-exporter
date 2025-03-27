@@ -15,6 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: install zip
+        run: sudo apt install zip
+
       - name: Install Ruby Deps
         run: sudo gem install nokogiri
 
@@ -31,3 +34,21 @@ jobs:
 
       - name: Upload
         uses: stefanzweifel/git-auto-commit-action@v5
+
+      - name: Make zip
+        run: zip -r ro-gtfs.zip gtfs-out/*
+
+      - name: Upload release GTFS
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITUHB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+          ASSET_PATH: ro-gtfs.zip # Replace with the actual path to your file
+          ASSET_NAME: ro-gtfs.zip    # Replace with the desired name of the asset
+          RELEASE_TAG: latest
+        run: |
+          echo "Uploading asset: $ASSET_PATH as $ASSET_NAME to release latest"
+          gh release upload latest "$ASSET_PATH" --clobber
+        shell: bash
+        if: env.ASSET_PATH != '' && env.ASSET_NAME != ''
+  
+      - name: Upload zip
